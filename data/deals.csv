@@ -1,0 +1,779 @@
+DEAL_ID,PIPELINE_ID,PIPELINE_NAME,STAGE_NAME,AMOUNT_IN_HOME_CURRENCY,CREATED_AT,CLOSE_DATE,DEAL_SOURCE_TYPE
+11544428215,default,Mid Market Pipeline,Closed Lost,,2023-01-01T16:41:15.041Z,2023-01-18T09:15:41.444Z,Website
+11631593293,default,Mid Market Pipeline,Keep Warm,30200,2023-01-09T09:04:27.21Z,2023-09-30T22:01:15.185Z,Website
+11650819658,default,Mid Market Pipeline,Closed Lost,7700,2023-01-10T22:00:07.113Z,2023-04-14T13:58:59.158Z,Website
+11744161349,default,Mid Market Pipeline,Closed Lost,,2023-01-18T14:05:53.154Z,2023-04-12T11:39:42.702Z,Website
+11745016639,default,Mid Market Pipeline,Closed Lost,,2023-01-18T15:48:29.732Z,2023-04-13T17:39:37.17Z,Website
+11750790416,default,Mid Market Pipeline,Closed Lost,,2023-01-18T19:45:21.053Z,2023-01-20T14:32:46.569Z,Sales Outbound
+11765292444,default,Mid Market Pipeline,Closed Lost,20600,2023-01-19T16:44:26.076Z,2024-01-26T09:47:06.981Z,Website
+11769088269,default,Mid Market Pipeline,Closed Lost,,2023-01-19T21:53:44.853Z,2023-05-04T13:45:40.251Z,Website
+11776238629,default,Mid Market Pipeline,Closed Lost,13600,2023-01-20T14:45:51.727Z,2023-05-09T16:21:42.07Z,Website
+11776409864,default,Mid Market Pipeline,Closed Lost,12600,2023-01-20T14:58:36.574Z,2023-05-09T16:17:51.696Z,Website
+11831233947,default,Mid Market Pipeline,Closed Won,27412.5,2023-01-24T15:23:46.726Z,2023-06-30T21:52:15.715Z,Website
+11839902114,default,Mid Market Pipeline,Closed Won,9575,2023-01-24T22:29:04.427Z,2023-01-31T18:47:52.822Z,Website
+11927508532,default,Mid Market Pipeline,Closed Lost,14350,2023-01-30T10:16:11.408Z,2023-04-05T13:08:37.022Z,PPC / Paid Advertising
+11933146496,default,Mid Market Pipeline,Closed Lost,12600,2023-01-30T18:47:42.011Z,2023-02-22T16:45:28.807Z,Website
+11938781718,default,Mid Market Pipeline,Closed Lost,,2023-01-31T00:25:46.257Z,2023-02-23T12:08:57.024Z,Website
+11963756145,default,Mid Market Pipeline,Closed Lost,10600,2023-02-01T15:26:42.376Z,2023-05-22T17:44:18.189Z,Sales Outbound
+11972675841,default,Mid Market Pipeline,Closed Lost,,2023-02-01T21:57:01.689Z,2023-04-14T08:26:09.884Z,Website
+11995207086,default,Mid Market Pipeline,Closed Lost,18600,2023-02-02T20:43:43.284Z,2023-04-24T13:57:39.143Z,PPC / Paid Advertising
+12038045778,default,Mid Market Pipeline,Closed Won,13324.5,2023-02-06T17:57:27.187Z,2023-09-11T17:00:55.268Z,Webinar
+12053537184,default,Mid Market Pipeline,Closed Lost,11600,2023-02-07T19:15:44.387Z,2023-04-05T13:26:28.762Z,Sales Outbound
+12135427160,default,Mid Market Pipeline,Closed Won,11790,2023-02-13T13:31:49.161Z,2023-10-01T07:55:21.667Z,Website
+12135850076,default,Mid Market Pipeline,Closed Lost,12600,2023-02-13T14:16:32.168Z,2023-04-11T16:46:19.231Z,Website
+12137129065,default,Mid Market Pipeline,Closed Lost,,2023-02-13T15:53:03.228Z,2023-02-15T15:34:33.584Z,Website
+12144255410,default,Mid Market Pipeline,Closed Lost,32100,2023-02-13T22:47:06.698Z,2023-06-29T14:14:56.034Z,Website
+12149716742,default,Mid Market Pipeline,Closed Won,29600,2023-02-14T07:22:25.78Z,2023-06-29T23:24:04.96Z,Webinar
+12127938574,default,Mid Market Pipeline,Closed Lost,,2023-02-12T22:46:16.795Z,2023-04-28T21:54:33.75Z,Sales Outbound
+12179798156,default,Mid Market Pipeline,Closed Lost,,2023-02-16T00:58:55.653Z,2023-02-17T09:08:29.635Z,Website
+12186503801,default,Mid Market Pipeline,Closed Lost,,2023-02-16T14:43:11.427Z,2023-04-12T11:45:56.112Z,Website
+12192774913,default,Mid Market Pipeline,Closed Won,9405,2023-02-16T20:57:13.54Z,2023-04-27T09:40:28.295Z,PPC / Paid Advertising
+12239875229,default,Mid Market Pipeline,Closed Lost,7720,2023-02-20T13:32:58.234Z,2023-03-10T11:35:50.086Z,Website
+12241453445,default,Mid Market Pipeline,Closed Lost,,2023-02-20T16:02:41.086Z,2023-03-01T09:20:36.781Z,Sales Outbound
+12248281384,default,Mid Market Pipeline,Closed Lost,,2023-02-20T22:58:29.756Z,2023-02-24T17:53:30.718Z,Website
+12253703810,default,Mid Market Pipeline,Closed Lost,13600,2023-02-21T11:26:16.019Z,2024-01-30T15:26:42.408Z,Website
+12266619411,default,Mid Market Pipeline,Closed Lost,106760,2023-02-22T13:57:22.829Z,2024-01-16T15:23:27.254Z,PPC / Paid Advertising
+12281555300,default,Mid Market Pipeline,Closed Lost,,2023-02-23T19:45:51.078Z,2023-03-06T15:08:58.537Z,Website
+12339718709,default,Mid Market Pipeline,Closed Lost,10600,2023-02-28T11:26:54.08Z,2023-07-13T18:00:14.717Z,Website
+12339754355,default,Mid Market Pipeline,Closed Lost,,2023-02-28T11:58:39.341Z,2023-03-03T15:29:50.485Z,Website
+12344943174,default,Mid Market Pipeline,Keep Warm,23600,2023-02-28T20:01:54.16Z,2023-08-31T18:15:46.403Z,Website
+12368862792,default,Mid Market Pipeline,Closed Lost,38544,2023-03-02T18:09:25.012Z,2023-03-27T20:52:45.723Z,Webinar
+12386749219,default,Mid Market Pipeline,Closed Lost,12600,2023-03-03T16:29:19.532Z,2023-05-10T14:08:11.939Z,Website
+12423978577,default,Mid Market Pipeline,Closed Lost,,2023-03-06T21:25:57.897Z,2023-05-23T18:21:39.373Z,Sales Outbound
+12434781621,default,Mid Market Pipeline,Closed Lost,,2023-03-07T19:04:00.949Z,2023-03-24T15:24:12.757Z,Website
+12449476636,default,Mid Market Pipeline,Closed Lost,16725,2023-03-08T19:19:30.708Z,2023-09-18T21:36:47.823Z,Website
+12479412897,default,Mid Market Pipeline,Closed Lost,,2023-03-10T16:23:31.032Z,2023-04-12T17:37:50.674Z,Tradeshows and Events
+12514147469,default,Mid Market Pipeline,Closed Lost,,2023-03-13T13:40:05.324Z,2023-03-17T19:49:21.383Z,Tradeshows and Events
+12528567858,default,Mid Market Pipeline,Closed Lost,8730,2023-03-14T10:23:28.23Z,2023-06-14T15:51:24.681Z,Sales Outbound
+12533229976,default,Mid Market Pipeline,Closed Lost,,2023-03-14T18:08:31.894Z,2023-04-19T16:06:34.119Z,Website
+12557955513,default,Mid Market Pipeline,Closed Lost,,2023-03-16T11:47:21.299Z,2023-03-21T08:04:22.477Z,Website
+12561577551,default,Mid Market Pipeline,Closed Lost,0,2023-03-06T16:52:41.12Z,2023-03-27T11:41:45.464Z,Tradeshows and Events
+12563113338,default,Mid Market Pipeline,Closed Lost,11600,2023-03-16T19:24:55.957Z,2023-06-14T19:17:07.849Z,Website
+12580403540,default,Mid Market Pipeline,Closed Lost,,2023-03-17T15:24:26.03Z,2023-04-28T15:38:10.051Z,Tradeshows and Events
+12580731832,default,Mid Market Pipeline,Closed Lost,13600,2023-03-17T16:05:46.798Z,2023-04-12T09:35:08.046Z,Sales Outbound
+12623816361,default,Mid Market Pipeline,Closed Lost,31125,2023-03-20T13:36:03.652Z,2023-07-24T13:52:10.315Z,PPC / Paid Advertising
+12626558887,default,Mid Market Pipeline,Closed Lost,8680,2023-03-20T15:28:55.745Z,2023-04-21T21:05:15.744Z,Website
+12633683497,default,Mid Market Pipeline,Closed Lost,26230,2023-03-21T01:37:39.093Z,2023-06-07T17:16:16.509Z,PPC / Paid Advertising
+12649911110,default,Mid Market Pipeline,Closed Lost,18600,2023-03-21T17:42:44.73Z,2023-07-24T13:52:24.763Z,Tradeshows and Events
+12670376970,default,Mid Market Pipeline,Closed Lost,,2023-03-22T13:55:27.399Z,2023-05-09T15:52:52.053Z,Sales Outbound
+12671910752,default,Mid Market Pipeline,Closed Lost,34750,2023-03-22T15:18:33.817Z,2023-09-29T14:01:17.776Z,Sales Outbound
+12686862229,default,Mid Market Pipeline,Closed Lost,,2023-03-23T11:49:35.083Z,2023-03-29T08:57:52.819Z,Website
+12693223326,default,Mid Market Pipeline,Keep Warm,,2023-03-23T21:02:25.972Z,,Tradeshows and Events
+12709294996,default,Mid Market Pipeline,Closed Lost,,2023-03-24T18:21:47.261Z,2023-08-24T09:41:58.399Z,Tradeshows and Events
+12761438030,default,Mid Market Pipeline,Closed Lost,,2023-03-29T10:25:49.969Z,2023-05-03T13:07:29.561Z,Website
+12764752665,default,Mid Market Pipeline,Closed Lost,24200,2023-03-29T15:02:39.719Z,2023-05-09T14:38:27.499Z,Tradeshows and Events
+12765322872,default,Mid Market Pipeline,Closed Lost,10680,2023-03-29T16:44:54.5Z,2023-04-03T14:33:55.185Z,PPC / Paid Advertising
+12823240294,default,Mid Market Pipeline,Closed Lost,,2023-04-03T14:40:07.51Z,2023-06-15T15:55:21.96Z,Tradeshows and Events
+12869401226,default,Mid Market Pipeline,Closed Lost,,2023-04-06T14:31:38.571Z,2023-04-10T16:41:40.202Z,Webinar
+12925772042,default,Mid Market Pipeline,Closed Lost,,2023-04-11T13:35:35.82Z,2023-04-12T12:38:46.388Z,Website
+12928628483,default,Mid Market Pipeline,Closed Lost,,2023-04-11T17:08:48.486Z,2023-04-28T09:32:59.649Z,Tradeshows and Events
+12954959278,default,Mid Market Pipeline,Closed Lost,,2023-04-12T17:48:38.023Z,2023-05-03T11:19:56.058Z,Tradeshows and Events
+12986189423,default,Mid Market Pipeline,Closed Lost,,2023-04-14T12:17:53.713Z,2023-06-19T18:01:45.439Z,Website
+12987505065,default,Mid Market Pipeline,Closed Lost,,2023-04-14T13:25:26.854Z,2023-07-12T21:26:09.38Z,PPC / Paid Advertising
+12990782091,default,Mid Market Pipeline,Closed Lost,,2023-04-14T17:20:54.922Z,2023-10-03T14:23:53.444Z,Sales Outbound
+13027287657,default,Mid Market Pipeline,Closed Lost,19567.7174,2023-04-17T11:13:24.48Z,2023-05-03T12:54:15.24Z,Website
+13028118065,default,Mid Market Pipeline,Closed Won,12197.5,2023-04-17T12:12:27.692Z,2023-06-14T08:21:08.01Z,Website
+13034491166,default,Mid Market Pipeline,Closed Lost,,2023-04-17T19:49:51.501Z,2023-05-08T18:08:28.961Z,Tradeshows and Events
+13037424514,default,Mid Market Pipeline,Closed Lost,,2023-04-18T05:33:03.292Z,2023-05-04T18:58:11.776Z,Tradeshows and Events
+13042613516,default,Mid Market Pipeline,Closed Lost,15100,2023-04-18T13:57:23.21Z,2023-05-31T19:07:14.04Z,Website
+13046749745,default,Mid Market Pipeline,Closed Lost,,2023-04-18T17:35:35.966Z,2023-05-11T12:39:04.113Z,Tradeshows and Events
+13055913335,default,Mid Market Pipeline,Closed Lost,9301.992,2023-04-19T11:48:24.059Z,2023-07-11T12:25:59.413Z,PPC / Paid Advertising
+13058906239,default,Mid Market Pipeline,Closed Lost,10600,2023-04-19T18:09:47.475Z,2023-06-27T21:20:29.422Z,PPC / Paid Advertising
+13062329383,default,Mid Market Pipeline,Closed Lost,0,2023-04-19T20:47:26.516Z,2023-08-15T18:31:53.577Z,Website
+13063384486,default,Mid Market Pipeline,Closed Lost,10600,2023-04-19T22:19:51.987Z,2024-01-29T19:29:30.135Z,Tradeshows and Events
+13068557433,default,Mid Market Pipeline,Proof of Value,13600,2023-04-20T11:02:30.77Z,2024-03-29T15:26:30.829Z,Sales Outbound
+13070935702,default,Mid Market Pipeline,Closed Lost,,2023-04-20T15:38:47.923Z,2023-04-26T18:56:39.961Z,Sales Outbound
+13076175528,default,Mid Market Pipeline,Keep Warm,,2023-04-20T21:24:31.935Z,,Website
+13076448118,default,Mid Market Pipeline,Closed Lost,,2023-04-20T22:51:24.405Z,2023-06-20T16:09:56.301Z,Tradeshows and Events
+13086298392,default,Mid Market Pipeline,Procurement/Negotiation,8280,2023-04-21T18:05:11.278Z,2024-03-01T19:33:32.812Z,Webinar
+13123943286,default,Mid Market Pipeline,Closed Lost,31000,2023-04-24T17:30:36.984Z,2023-10-30T13:43:18.442Z,PPC / Paid Advertising
+13133919104,default,Mid Market Pipeline,Closed Lost,,2023-04-25T12:38:59.291Z,2023-08-15T23:03:25.297Z,PPC / Paid Advertising
+13149362322,default,Mid Market Pipeline,Closed Lost,25000,2023-04-26T16:09:19.31Z,2023-11-16T18:19:02.35Z,Sales Outbound
+13150537342,default,Mid Market Pipeline,Keep Warm,16680,2023-04-26T19:24:00.186Z,2024-02-15T14:16:05.734Z,Website
+13157251859,default,Mid Market Pipeline,Closed Lost,,2023-04-27T09:01:09.743Z,2023-11-15T20:35:26.173Z,Sales Outbound
+13187764917,default,Mid Market Pipeline,Closed Lost,,2023-04-30T15:20:43.453Z,2023-08-24T20:51:06.849Z,PPC / Paid Advertising
+13202621836,default,Mid Market Pipeline,Keep Warm,,2023-05-02T08:20:40.34Z,,Website
+13205893401,default,Mid Market Pipeline,Closed Lost,21600,2023-05-02T15:09:14.712Z,2023-08-30T08:59:52.265Z,Website
+13213952101,default,Mid Market Pipeline,Closed Lost,,2023-05-03T10:17:37.051Z,2023-05-25T19:12:29.385Z,Website
+13273113740,default,Mid Market Pipeline,Closed Lost,,2023-05-09T03:06:08.156Z,2023-09-18T14:14:07.238Z,Website
+13273720504,default,Mid Market Pipeline,Closed Lost,,2023-05-09T05:23:30.457Z,2023-07-24T19:11:28.636Z,Sales Outbound
+13259666846,default,Mid Market Pipeline,Closed Lost,,2023-05-07T15:19:00.897Z,2023-05-30T20:11:29.874Z,PPC / Paid Advertising
+13315561577,default,Mid Market Pipeline,Closed Lost,,2023-05-12T16:34:07.574Z,2023-05-24T17:18:03.342Z,Website
+13336637979,default,Mid Market Pipeline,Closed Lost,,2023-05-15T10:39:30.845Z,2023-07-10T20:31:18.241Z,Website
+13353550093,default,Mid Market Pipeline,Closed Won,7980,2023-05-16T13:44:53.617Z,2023-12-31T13:19:12.625Z,PPC / Paid Advertising
+13354946483,default,Mid Market Pipeline,Closed Won,9252,2023-05-16T14:45:00.79Z,2023-08-07T12:45:40.619Z,Website
+13363667723,default,Mid Market Pipeline,Closed Lost,11100,2023-05-17T07:25:49.678Z,2023-06-15T16:13:41.972Z,Chat Bot
+13377329456,default,Mid Market Pipeline,Closed Lost,12430,2023-05-18T13:52:46.651Z,2023-05-26T12:28:06.45Z,Website
+13384082182,default,Mid Market Pipeline,Closed Lost,11600,2023-05-19T03:14:18.55Z,2023-10-31T10:34:33.721Z,Website
+13386145429,default,Mid Market Pipeline,Closed Lost,2960,2023-05-19T09:20:14.106Z,2023-09-20T16:07:54.357Z,Website
+13388452162,default,Mid Market Pipeline,Closed Lost,,2023-05-19T15:02:50.74Z,2023-06-05T15:13:52.134Z,PPC / Paid Advertising
+13411683953,default,Mid Market Pipeline,Closed Won,8680,2023-05-22T12:30:39.592Z,2023-09-15T12:18:27.464Z,Website
+13505734407,default,Mid Market Pipeline,Closed Lost,,2023-05-30T14:18:52.911Z,2023-07-27T13:56:42.89Z,Sales Outbound
+13508830838,default,Mid Market Pipeline,Proposal/Pricing,17800,2023-05-30T18:35:09.217Z,2024-04-30T11:02:38.843Z,PPC / Paid Advertising
+13549384980,default,Mid Market Pipeline,Closed Won,17086.5194,2023-06-02T08:45:45.318Z,2023-08-11T16:12:25.952Z,Website
+13573188254,default,Mid Market Pipeline,Closed Lost,,2023-06-04T09:07:44.561Z,2023-06-12T12:23:29.212Z,Sales Outbound
+13586942334,default,Mid Market Pipeline,Closed Lost,,2023-06-05T15:32:22.916Z,2023-06-08T11:29:58.292Z,Website
+13622548601,default,Mid Market Pipeline,Closed Lost,11600,2023-06-07T21:15:26.618Z,2023-11-08T15:06:25.368Z,Website
+13677519943,default,Mid Market Pipeline,Keep Warm,,2023-06-12T13:59:14.795Z,2023-11-30T10:44:32.596Z,Sales Re-Engagement
+13678238518,default,Mid Market Pipeline,Lead Engaged,2960,2023-06-12T15:04:29.64Z,2024-02-29T21:16:31.116Z,Website
+13683436034,default,Mid Market Pipeline,Proposal/Pricing,116700,2023-06-12T23:12:23.184Z,2024-06-28T17:53:14.738Z,Social
+13710312216,default,Mid Market Pipeline,Keep Warm,,2023-06-14T17:09:05.806Z,2024-07-31T18:30:34.976Z,Tradeshows and Events
+13739820712,default,Mid Market Pipeline,Closed Lost,,2023-06-16T10:33:44.444Z,2023-07-20T13:24:15.887Z,Tradeshows and Events
+13750708065,default,Mid Market Pipeline,Closed Lost,12600,2023-06-16T20:01:59.537Z,2023-07-19T08:40:53.397Z,PPC / Paid Advertising
+13790700847,default,Mid Market Pipeline,Qualified,31000,2023-06-20T08:20:46.259Z,2024-03-31T14:00:50.276Z,PPC / Paid Advertising
+13794275767,default,Mid Market Pipeline,Procurement/Negotiation,3960,2023-06-20T16:17:46.287Z,2024-02-29T20:39:41.157Z,Webinar
+13884898088,default,Mid Market Pipeline,Closed Lost,,2023-06-27T15:20:17.187Z,2023-06-29T14:49:25.394Z,PPC / Paid Advertising
+13899723788,default,Mid Market Pipeline,Closed Lost,10600,2023-06-28T14:30:14.774Z,2023-07-20T14:58:56.03Z,Tradeshows and Events
+13927103642,default,Mid Market Pipeline,Qualified,20680,2023-06-30T18:39:28.579Z,2025-01-31T14:24:20.389Z,Tradeshows and Events
+13927157383,default,Mid Market Pipeline,Closed Lost,,2023-06-30T18:30:56.149Z,2023-12-01T15:44:28.543Z,Tradeshows and Events
+13976753812,default,Mid Market Pipeline,Proposal/Pricing,52500,2023-07-05T08:29:59.386Z,2024-03-29T18:43:34.355Z,PPC / Paid Advertising
+14057698115,default,Mid Market Pipeline,Closed Won,9680,2023-07-11T12:39:15.658Z,2023-09-30T10:28:23.312Z,Sales Re-Engagement
+14089537804,default,Mid Market Pipeline,Closed Lost,,2023-07-12T20:50:03.031Z,2023-07-18T17:11:16.543Z,Website
+14108761726,default,Mid Market Pipeline,Closed Lost,,2023-07-13T14:16:19.451Z,2023-10-13T09:39:40.138Z,Tradeshows and Events
+14132226309,default,Mid Market Pipeline,Closed Lost,11600,2023-07-13T20:16:55.052Z,2023-07-24T18:00:12.861Z,Website
+14192307333,default,Mid Market Pipeline,Closed Won,8660,2023-07-17T12:13:14.889Z,2023-11-13T11:45:32.743Z,Sales Outbound
+14195176979,default,Mid Market Pipeline,Proof of Value,38400,2023-07-17T16:38:36.771Z,2024-04-30T17:56:41.134Z,PPC / Paid Advertising
+14207573063,default,Mid Market Pipeline,Closed Lost,,2023-07-18T10:35:16.992Z,2024-01-09T16:20:32.761Z,Sales Outbound
+14214646193,default,Mid Market Pipeline,Closed Lost,11600,2023-07-18T18:27:56.76Z,2023-08-10T14:53:57.118Z,Website
+14225906285,default,Mid Market Pipeline,Qualified,3960,2023-07-19T10:14:01.86Z,2024-05-31T18:08:41.892Z,Sales Outbound
+14262023452,default,Mid Market Pipeline,Qualified,11600,2023-07-21T09:19:41.887Z,2024-01-31T13:40:16.284Z,Website
+14265377541,default,Mid Market Pipeline,Discovery,,2023-07-21T14:18:26.093Z,2024-01-31T18:01:53.527Z,Sales Outbound
+14298736901,default,Mid Market Pipeline,Keep Warm,14350,2023-07-24T15:42:00.717Z,2024-03-29T22:28:47.031Z,Sales Outbound
+14300683349,default,Mid Market Pipeline,Closed Lost,11100,2023-07-24T17:39:13.978Z,2023-09-19T12:18:37.451Z,Website
+14304505664,default,Mid Market Pipeline,Closed Lost,24350,2023-07-21T14:29:33.006Z,2023-11-16T17:11:13.265Z,Sales Outbound
+14356566656,default,Mid Market Pipeline,Closed Lost,,2023-07-27T10:45:33.912Z,2023-09-15T08:26:28.312Z,Tradeshows and Events
+14359970873,default,Mid Market Pipeline,Closed Lost,,2023-07-27T14:19:26.258Z,2023-08-09T17:40:08.065Z,PPC / Paid Advertising
+14417450385,default,Mid Market Pipeline,Closed Lost,28300,2023-08-01T11:13:44.167Z,2023-12-20T13:15:26.347Z,Sales Outbound
+14418687258,default,Mid Market Pipeline,Closed Lost,,2023-08-01T13:59:31.9Z,2023-08-03T14:48:26.974Z,Sales Outbound
+14447534248,default,Mid Market Pipeline,Closed Lost,,2023-08-03T10:32:47.102Z,2023-08-10T10:47:41.601Z,Website
+14516745279,default,Mid Market Pipeline,Proof of Value,11350,2023-08-07T14:25:37.22Z,2023-10-31T16:39:50.297Z,Website
+14535466094,default,Mid Market Pipeline,Closed Lost,34750,2023-08-09T04:30:22.048Z,2023-09-12T15:43:40.155Z,Website
+14554772250,default,Mid Market Pipeline,Keep Warm,10140,2023-08-10T12:54:53.649Z,2024-03-31T11:37:11.033Z,Tradeshows and Events
+14554829628,default,Mid Market Pipeline,Closed Won,46640,2023-08-10T12:54:18.294Z,2023-12-13T17:57:28Z,Tradeshows and Events
+14555661670,default,Mid Market Pipeline,Closed Lost,,2023-08-10T13:20:41.824Z,2023-11-09T17:50:33.3Z,Website
+14568447338,default,Mid Market Pipeline,Proposal/Pricing,10089,2023-08-11T07:46:11.386Z,2024-05-31T14:10:33.069Z,Website
+14576563061,default,Mid Market Pipeline,Closed Lost,9601,2023-08-11T18:30:04.903Z,2023-12-05T18:18:28.466Z,Website
+14613742238,default,Mid Market Pipeline,Closed Lost,,2023-08-14T14:50:09.028Z,2023-09-12T15:40:19.997Z,Sales Outbound
+14648652662,default,Mid Market Pipeline,Proof of Value,20200,2023-08-16T10:57:05.737Z,2024-03-31T14:45:06.468Z,Marketing Emails
+14649303634,default,Mid Market Pipeline,Qualified,10600,2023-08-16T11:57:46.905Z,2024-03-31T15:34:37.225Z,Sales Outbound
+14719941688,default,Mid Market Pipeline,Closed Lost,,2023-08-18T11:23:42.709Z,2023-11-16T18:00:06.103Z,Sales Outbound
+14723374627,default,Mid Market Pipeline,Closed Lost,,2023-08-18T17:10:01.33Z,2023-09-15T11:24:30.489Z,Webinar
+14779607222,default,Mid Market Pipeline,Closed Lost,12600,2023-08-22T11:39:31.288Z,2023-09-06T10:11:47.338Z,Website
+14785184158,default,Mid Market Pipeline,Closed Lost,,2023-08-22T17:26:41.994Z,2023-11-08T21:18:13.331Z,Sales Outbound
+14814047292,default,Mid Market Pipeline,Keep Warm,22600,2023-08-24T21:04:14.777Z,2024-01-31T23:00:02.075Z,Website
+14829021489,default,Mid Market Pipeline,Closed Lost,,2023-08-25T15:20:06.358Z,2024-01-24T19:10:00.039Z,Website
+14829174179,default,Mid Market Pipeline,Closed Lost,,2023-08-25T15:27:44.303Z,2023-09-05T17:25:22.215Z,Sales Outbound
+14830516153,default,Mid Market Pipeline,Keep Warm,26850,2023-08-25T17:02:31.498Z,2024-01-31T13:23:36.422Z,Sales Outbound
+14916647600,default,Mid Market Pipeline,Proof of Value,29100,2023-08-31T15:11:03.731Z,2024-10-31T13:30:51.435Z,Website
+15112279190,default,Mid Market Pipeline,Qualified,19867.5,2023-09-11T20:39:26.77Z,2024-03-31T17:19:36.027Z,PPC / Paid Advertising
+15126740913,default,Mid Market Pipeline,Proposal/Pricing,45126,2023-09-12T23:25:21.299Z,2024-03-29T19:47:10.368Z,Tradeshows and Events
+15220330805,default,Mid Market Pipeline,Keep Warm,10600,2023-09-18T13:34:41.577Z,2025-01-01T00:15:21.944Z,Sales Outbound
+15238076189,default,Mid Market Pipeline,Keep Warm,,2023-09-19T19:18:07.47Z,,PPC / Paid Advertising
+15241422728,default,Mid Market Pipeline,Procurement/Negotiation,26500,2023-09-20T00:18:01.549Z,2024-01-31T16:09:01.959Z,Website
+15246012424,default,Mid Market Pipeline,Closed Won,9850,2023-09-20T10:34:31.09Z,2023-09-29T11:05:30.644Z,PPC / Paid Advertising
+15250775606,default,Mid Market Pipeline,Proposal/Pricing,8680,2023-09-20T16:27:36.248Z,2024-01-31T14:14:48.108Z,Sales Outbound
+15267772583,default,Mid Market Pipeline,Qualified,10600,2023-09-21T10:20:59.608Z,2024-01-31T23:10:25.817Z,Website
+15280877116,default,Mid Market Pipeline,Proposal/Pricing,34000,2023-09-22T09:50:38.019Z,2024-03-31T11:18:45.859Z,Website
+15283187040,default,Mid Market Pipeline,Closed Won,58973.68,2023-09-22T13:15:14.009Z,2023-11-01T18:17:10.354Z,Webinar
+15284329299,default,Mid Market Pipeline,Lead Engaged,0,2023-09-15T15:05:32.516Z,2024-01-31T19:34:10.695Z,Tradeshows and Events
+15023900955,default,Mid Market Pipeline,Closed Lost,12100,2023-09-06T14:18:41.061Z,2023-10-11T09:52:41.039Z,Website
+15229777166,default,Mid Market Pipeline,Closed Lost,,2023-09-19T06:40:11.538Z,2023-12-01T11:53:59.155Z,Website
+15329030964,default,Mid Market Pipeline,Closed Lost,,2023-09-26T16:19:07.626Z,2024-01-10T20:10:23.49Z,Tradeshows and Events
+15329196842,default,Mid Market Pipeline,Keep Warm,,2023-09-26T16:19:06.154Z,2024-03-15T17:53:59.523Z,Tradeshows and Events
+15329819250,default,Mid Market Pipeline,Lead Engaged,,2023-09-26T19:19:44.728Z,2024-04-01T19:04:06.071Z,PPC / Paid Advertising
+15342566985,default,Mid Market Pipeline,Closed Lost,,2023-09-27T16:22:13.859Z,2023-11-09T10:52:36.321Z,Sales Outbound
+15342567822,default,Mid Market Pipeline,Proposal/Pricing,8513.33,2023-09-27T16:27:41.809Z,2024-02-29T15:08:38.238Z,Partners and Affiliates
+15353691918,default,Mid Market Pipeline,Qualified,10880,2023-09-28T09:37:15.106Z,2024-09-30T11:47:31.714Z,Sales Outbound
+15430767914,default,Mid Market Pipeline,Closed Lost,35350,2023-10-03T18:47:55.782Z,2024-01-10T11:48:26.356Z,PPC / Paid Advertising
+15431460642,default,Mid Market Pipeline,Closed Lost,31500,2023-10-03T20:07:57.368Z,2023-12-21T15:16:44.303Z,Website
+15468470116,default,Mid Market Pipeline,Closed Lost,,2023-10-05T15:56:18.916Z,2024-01-18T14:29:01.057Z,Sales Outbound
+15490234179,default,Mid Market Pipeline,Closed Won,58200,2023-10-06T14:12:33.725Z,2023-08-09T14:12:11.279Z,Website
+15525161993,default,Mid Market Pipeline,Closed Lost,,2023-10-09T18:52:23.082Z,2023-11-10T14:52:37.626Z,Website
+15556837954,default,Mid Market Pipeline,Proof of Value,39000,2023-10-11T13:34:34.534Z,2024-06-30T10:56:29.241Z,PPC / Paid Advertising
+15612296624,default,Mid Market Pipeline,Qualified,9700,2023-10-13T12:05:25.099Z,2024-06-30T12:29:47.584Z,Sales Outbound
+15612516159,default,Mid Market Pipeline,Proposal/Pricing,32000,2023-10-13T13:02:58.653Z,2024-03-31T17:58:01.787Z,Sales Outbound
+15663271724,default,Mid Market Pipeline,Qualified,17200,2023-10-17T04:47:45.18Z,2024-03-31T11:35:06.133Z,Website
+15664894534,default,Mid Market Pipeline,Closed Lost,,2023-10-17T08:44:55.506Z,2024-01-08T15:53:50.769Z,Sales Outbound
+15669055781,default,Mid Market Pipeline,Closed Lost,3960,2023-10-17T16:10:26.413Z,2023-11-09T13:37:56.256Z,Website
+15690968437,default,Mid Market Pipeline,Closed Lost,8460,2023-10-18T18:59:28.594Z,2023-12-04T18:58:10.872Z,PPC / Paid Advertising
+15720455070,default,Mid Market Pipeline,Qualified,10600,2023-10-20T14:44:25.837Z,2024-07-31T14:27:19.111Z,Sales Outbound
+15726671752,default,Mid Market Pipeline,Closed Lost,,2023-10-20T23:51:11.228Z,2023-11-10T13:36:01.793Z,Website
+15756889929,default,Mid Market Pipeline,Keep Warm,18468,2023-10-23T18:07:39.27Z,2023-11-30T22:40:25.967Z,Website
+15793551769,default,Mid Market Pipeline,Discovery,,2023-10-26T09:53:49.401Z,,Sales Outbound
+15793553291,default,Mid Market Pipeline,Closed Lost,,2023-10-26T10:10:09.252Z,2023-10-31T12:00:28.058Z,Sales Outbound
+15794584476,default,Mid Market Pipeline,Closed Lost,10600,2023-10-26T12:39:02.737Z,2024-01-16T10:48:09.845Z,Sales Outbound
+15797613226,default,Mid Market Pipeline,Closed Lost,,2023-10-26T15:39:11.637Z,2023-12-06T16:24:45.063Z,Partners and Affiliates
+15799968926,default,Mid Market Pipeline,Closed Lost,,2023-10-26T20:11:37.081Z,2024-01-08T12:32:30.319Z,Tradeshows and Events
+15810484623,default,Mid Market Pipeline,Discovery,,2023-10-27T12:07:37.508Z,,Sales Outbound
+15815419709,default,Mid Market Pipeline,Qualified,10600,2023-10-27T20:17:21.505Z,2024-04-30T16:51:58.664Z,Tradeshows and Events
+15815815770,default,Mid Market Pipeline,Discovery,,2023-10-27T20:17:19.122Z,,Tradeshows and Events
+15850276388,default,Mid Market Pipeline,Closed Lost,,2023-10-30T20:30:35.854Z,2023-11-03T15:30:33.632Z,Website
+15862907768,default,Mid Market Pipeline,Proof of Value,75700,2023-10-31T14:50:16.062Z,2024-05-31T17:06:49.917Z,Sales Outbound
+15875953408,default,Mid Market Pipeline,Proof of Value,28600,2023-11-01T14:16:45.565Z,2024-11-30T10:06:03.956Z,PPC / Paid Advertising
+15876945335,default,Mid Market Pipeline,Qualified,19100,2023-11-01T15:32:44.834Z,2024-06-28T15:45:05.112Z,Tradeshows and Events
+15877089633,default,Mid Market Pipeline,Proposal/Pricing,19520,2023-11-01T16:09:33.32Z,2024-02-29T13:08:05.825Z,Webinar
+15878111100,default,Mid Market Pipeline,Qualified,14350,2023-11-01T17:45:25.675Z,2024-03-31T18:52:54.629Z,Sales Outbound
+15910675074,default,Mid Market Pipeline,Proof of Value,11600,2023-11-03T17:10:18.876Z,2024-02-29T18:51:46.434Z,PPC / Paid Advertising
+15941157183,default,Mid Market Pipeline,Closed Lost,14600,2023-11-06T16:51:44.802Z,2023-12-07T14:44:22.719Z,Website
+15981218829,default,Mid Market Pipeline,Qualified,11100,2023-11-09T02:14:01.595Z,2024-02-29T16:20:52.872Z,Website
+16039187521,default,Mid Market Pipeline,Closed Lost,,2023-11-13T14:36:05.242Z,2023-12-11T17:24:45.453Z,Sales Outbound
+16040517304,default,Mid Market Pipeline,Closed Lost,,2023-11-13T16:31:08.44Z,2023-12-18T19:58:00.313Z,Website
+16054983792,default,Mid Market Pipeline,Discovery,,2023-11-14T14:25:54.71Z,,PPC / Paid Advertising
+16059316744,default,Mid Market Pipeline,Discovery,,2023-11-14T19:14:40.611Z,2024-03-31T19:32:49.098Z,Website
+16103215274,default,Mid Market Pipeline,Qualified,44680,2023-11-17T17:41:02.53Z,2024-06-30T12:55:12.063Z,Website
+16116536956,default,Mid Market Pipeline,Qualified,9140,2023-11-18T16:19:34.335Z,2024-03-31T13:31:53.595Z,Webinar
+16125282209,default,Mid Market Pipeline,Proof of Value,3960,2023-11-19T17:44:22.593Z,2024-04-30T12:35:01.571Z,PPC / Paid Advertising
+16139007861,default,Mid Market Pipeline,Keep Warm,,2023-11-20T17:08:25.804Z,2024-02-08T17:53:23.862Z,Sales Outbound
+16159347099,default,Mid Market Pipeline,Closed Lost,12430,2023-11-21T12:41:17.527Z,2023-12-20T13:11:58.681Z,Sales Outbound
+16213557036,default,Mid Market Pipeline,Discovery,,2023-11-24T14:48:04.436Z,,Website
+16244198150,default,Mid Market Pipeline,Discovery,,2023-11-27T10:21:56.345Z,,Sales Outbound
+16269123956,default,Mid Market Pipeline,Qualified,11100,2023-11-28T14:51:44.201Z,2024-03-31T14:37:44.49Z,PPC / Paid Advertising
+16273794940,default,Mid Market Pipeline,Closed Lost,,2023-11-28T17:31:40.388Z,2023-12-13T15:13:00.346Z,PPC / Paid Advertising
+16303701038,default,Mid Market Pipeline,Proposal/Pricing,13390,2023-11-30T15:35:48.674Z,2024-02-29T14:03:07.726Z,Website
+16330415711,default,Mid Market Pipeline,Closed Lost,,2023-12-01T22:29:29.201Z,2023-12-15T15:00:54.054Z,Tradeshows and Events
+16354539563,default,Mid Market Pipeline,Qualified,10600,2023-12-04T13:32:43.34Z,2024-02-29T14:02:19.461Z,Sales Outbound
+16354689064,default,Mid Market Pipeline,Qualified,32500,2023-12-04T13:46:02.015Z,2024-04-30T14:05:52.935Z,Sales Outbound
+16377044869,default,Mid Market Pipeline,Closed Lost,,2023-12-05T23:33:10.615Z,2023-12-07T16:20:36.677Z,Website
+16382754447,default,Mid Market Pipeline,Discovery,,2023-12-06T10:13:02.072Z,,Sales Outbound
+16400738145,default,Mid Market Pipeline,Discovery,,2023-12-07T16:33:29.157Z,,Sales Outbound
+16415415337,default,Mid Market Pipeline,Qualified,9850,2023-12-08T17:56:45.12Z,2024-04-30T12:59:44.147Z,Sales Outbound
+16476055576,default,Mid Market Pipeline,Closed Won,3960,2023-12-12T16:58:40.108Z,2024-01-13T15:38:19.072Z,Sales Outbound
+16530140589,default,Mid Market Pipeline,Qualified,10600,2023-12-15T15:49:54.589Z,2024-03-31T18:58:36.914Z,PPC / Paid Advertising
+16611791461,default,Mid Market Pipeline,Closed Lost,13600,2023-12-20T23:58:48.871Z,2024-01-09T16:57:35.482Z,PPC / Paid Advertising
+16349673622,default,Mid Market Pipeline,Proof of Value,32100,2023-12-04T00:08:02.468Z,2024-03-01T00:07:38.146Z,PPC / Paid Advertising
+16802819233,default,Mid Market Pipeline,Proposal/Pricing,18400,2024-01-04T12:49:55.1Z,2024-06-30T16:05:47.665Z,Tradeshows and Events
+16890454569,default,Mid Market Pipeline,Closed Lost,,2024-01-11T09:44:21.471Z,2024-01-25T14:15:27.386Z,Website
+16973337371,default,Mid Market Pipeline,Proposal/Pricing,11215,2024-01-16T15:29:34.794Z,2024-06-30T12:32:18.203Z,Sales Outbound
+16996995935,default,Mid Market Pipeline,Discovery,,2024-01-17T12:19:49.457Z,,Website
+17023799708,default,Mid Market Pipeline,Qualified,10100,2024-01-18T15:54:23.392Z,2024-06-28T16:02:45.792Z,Sales Outbound
+17024822602,default,Mid Market Pipeline,Closed Won,7812,2024-01-18T17:33:24.637Z,2024-01-22T16:35:17.432Z,Website
+17101690903,default,Mid Market Pipeline,Qualified,10100,2024-01-22T16:22:49.158Z,2024-09-30T14:56:23.399Z,Sales Outbound
+17102535257,default,Mid Market Pipeline,Discovery,,2024-01-22T16:44:13.582Z,,Sales Outbound
+17123124311,default,Mid Market Pipeline,Discovery,,2024-01-23T21:59:42.345Z,,Website
+17136129315,default,Mid Market Pipeline,Closed Won,3564,2024-01-24T15:20:55.736Z,2024-02-01T16:35:28.967Z,Sales Re-Engagement
+17137561938,default,Mid Market Pipeline,Discovery,,2024-01-24T15:59:49.341Z,,Sales Outbound
+17156467852,default,Mid Market Pipeline,Discovery,,2024-01-25T15:57:19.685Z,,Website
+17177136519,default,Mid Market Pipeline,Discovery,,2024-01-27T10:46:47.648Z,,Sales Outbound
+17242019513,default,Mid Market Pipeline,Discovery,,2024-01-30T16:31:13.179Z,,Sales Outbound
+17245371700,default,Mid Market Pipeline,Discovery,,2024-01-30T20:22:02.544Z,,Website
+17252089166,default,Mid Market Pipeline,Discovery,,2024-01-31T03:08:20.289Z,,Website
+17271787635,default,Mid Market Pipeline,Discovery,,2024-01-31T17:06:53.76Z,,Website
+11581366064,default,Mid Market Pipeline,Closed Won,13328,2023-01-04T20:48:54.279Z,2023-03-31T09:15:20.397Z,Website
+11588397643,default,Mid Market Pipeline,Closed Lost,18600,2023-01-05T10:01:16.591Z,2023-05-03T11:54:30.048Z,PPC / Paid Advertising
+11604974975,default,Mid Market Pipeline,Closed Lost,34750,2023-01-06T17:42:43.798Z,2023-05-08T16:37:14.537Z,Website
+11626489983,default,Mid Market Pipeline,Keep Warm,11100,2023-01-08T21:22:18.677Z,2023-07-31T12:36:53.106Z,PPC / Paid Advertising
+11640772652,default,Mid Market Pipeline,Closed Lost,,2023-01-10T01:02:56.807Z,2023-01-11T16:48:06.23Z,Sales Outbound
+11725106700,default,Mid Market Pipeline,Closed Won,45000,2023-01-17T01:42:57.97Z,2023-06-20T06:57:35.944Z,PPC / Paid Advertising
+11731362449,default,Mid Market Pipeline,Closed Lost,,2023-01-17T15:20:40.216Z,2023-07-27T14:08:24.716Z,Website
+11756557390,default,Mid Market Pipeline,Closed Lost,13600,2023-01-19T02:14:42.413Z,2023-05-09T16:20:13.937Z,Sales Outbound
+11764266314,default,Mid Market Pipeline,Closed Lost,,2023-01-19T14:59:43.933Z,2023-01-30T10:06:00.649Z,PPC / Paid Advertising
+11765679263,default,Mid Market Pipeline,Closed Lost,,2023-01-19T18:02:10.145Z,2023-05-23T16:40:54.298Z,Webinar
+11832310184,default,Mid Market Pipeline,Closed Lost,,2023-01-24T16:40:41.599Z,2023-02-15T13:52:19.41Z,Website
+11832696180,default,Mid Market Pipeline,Closed Lost,15300,2023-01-24T16:55:28.742Z,2023-04-14T14:20:31.553Z,Website
+11850408468,default,Mid Market Pipeline,Closed Lost,,2023-01-25T16:04:48.938Z,2023-01-30T10:12:09.789Z,Website
+11879617304,default,Mid Market Pipeline,Closed Lost,33000,2023-01-26T23:28:03.662Z,2023-06-26T20:02:28.146Z,Website
+11895262723,default,Mid Market Pipeline,Closed Lost,90000,2023-01-27T21:16:49.095Z,2023-03-21T09:31:44.781Z,PPC / Paid Advertising
+11922829386,default,Mid Market Pipeline,Keep Warm,30000,2023-01-30T04:33:12.993Z,2024-08-31T17:03:02.807Z,Website
+11958898772,default,Mid Market Pipeline,Closed Lost,,2023-02-01T03:39:11.211Z,2023-03-16T20:09:11.713Z,Website
+12037672044,default,Mid Market Pipeline,Closed Lost,16680,2023-02-06T16:01:14.869Z,2023-05-01T19:33:31.176Z,Sales Outbound
+12046970947,default,Mid Market Pipeline,Closed Lost,11950,2023-02-07T09:54:21.796Z,2023-03-30T15:37:21.32Z,Website
+12066779557,default,Mid Market Pipeline,Closed Lost,8680,2023-02-08T14:57:55.545Z,2023-05-11T15:18:23.87Z,Website
+12088586650,default,Mid Market Pipeline,Closed Lost,19600,2023-02-09T16:57:28.111Z,2024-01-26T09:44:13.488Z,Webinar
+12090250248,default,Mid Market Pipeline,Closed Lost,9680,2023-02-09T19:35:37.001Z,2023-03-24T09:21:13.822Z,Website
+12090448809,default,Mid Market Pipeline,Closed Lost,,2023-02-09T19:50:10.246Z,2023-03-14T18:18:30.516Z,Sales Outbound
+12104141960,default,Mid Market Pipeline,Closed Lost,10800,2023-02-10T18:41:13.993Z,2023-06-06T17:16:03.847Z,Sales Outbound
+12139784875,default,Mid Market Pipeline,Stalled,10230,2023-02-13T17:58:58.47Z,2024-04-30T20:56:24.215Z,PPC / Paid Advertising
+12156114231,default,Mid Market Pipeline,Closed Lost,,2023-02-14T19:13:43.566Z,2023-02-24T16:26:40.528Z,Website
+12163630928,default,Mid Market Pipeline,Closed Lost,,2023-02-15T12:54:47.128Z,2023-05-09T17:46:36.759Z,Sales Outbound
+12164710062,default,Mid Market Pipeline,Closed Lost,,2023-02-15T15:06:03.88Z,2023-02-23T14:36:26.811Z,Website
+12179749784,default,Mid Market Pipeline,Closed Lost,,2023-02-15T22:38:25.789Z,2023-03-03T18:44:21.787Z,Sales Outbound
+12197046091,default,Mid Market Pipeline,Won - Closed self-serve,1920,2023-02-17T04:15:01.155Z,2023-02-14T00:00:00Z,Website
+12238572164,default,Mid Market Pipeline,Closed Lost,31350,2023-02-20T11:03:02.849Z,2023-07-27T14:20:55.131Z,PPC / Paid Advertising
+12256443056,default,Mid Market Pipeline,Closed Lost,40000,2023-02-21T17:07:31.043Z,2023-08-16T08:54:47.816Z,Website
+12271808143,default,Mid Market Pipeline,Closed Lost,12300,2023-02-22T20:37:24.347Z,2023-04-04T15:07:25.261Z,PPC / Paid Advertising
+12276619686,default,Mid Market Pipeline,Keep Warm,,2023-02-23T10:22:27.954Z,,Webinar
+12279660157,default,Mid Market Pipeline,Closed Lost,,2023-02-23T16:35:13.288Z,2023-03-09T10:23:31.945Z,Website
+12280640929,default,Mid Market Pipeline,Closed Lost,,2023-02-23T18:25:29.077Z,2023-08-29T16:36:52.898Z,Sales Outbound
+12290541421,default,Mid Market Pipeline,Closed Lost,10600,2023-02-24T17:23:54.488Z,2023-04-11T18:27:03.408Z,Referrals
+12337942183,default,Mid Market Pipeline,Won - Closed self-serve,7680,2023-02-28T04:32:56.551Z,2023-02-27T00:00:00Z,Website
+12342633391,default,Mid Market Pipeline,Closed Won,11680,2023-02-28T17:47:17.193Z,2023-06-02T09:05:26.974Z,Website
+12367899816,default,Mid Market Pipeline,Closed Lost,15300,2023-03-02T17:20:03.965Z,2023-04-24T13:54:59.268Z,Website
+12368601947,default,Mid Market Pipeline,Closed Lost,,2023-03-02T17:01:14.561Z,2023-06-12T15:50:07.135Z,Website
+12404878472,default,Mid Market Pipeline,Closed Lost,,2023-03-05T05:55:58.356Z,2023-03-22T17:51:28.774Z,Website
+12430433367,default,Mid Market Pipeline,Procurement/Negotiation,9860,2023-03-07T10:29:49.004Z,2024-02-29T09:59:30.343Z,Webinar
+12440687878,default,Mid Market Pipeline,Closed Lost,11600,2023-03-08T07:31:14.69Z,2023-05-03T12:09:36.632Z,Sales Outbound
+12449302813,default,Mid Market Pipeline,Closed Lost,,2023-03-08T18:32:47.499Z,2023-03-21T09:37:44.936Z,Sales Outbound
+12453511075,default,Mid Market Pipeline,Closed Lost,3960,2023-03-09T03:52:36.528Z,2023-04-18T10:48:33.799Z,Website
+12456663730,default,Mid Market Pipeline,Closed Lost,,2023-03-09T10:24:18.712Z,2023-03-15T16:23:54.036Z,Website
+12504367401,default,Mid Market Pipeline,Closed Lost,,2023-03-12T15:34:48.159Z,2023-04-28T22:10:44.724Z,Tradeshows and Events
+12513682990,default,Mid Market Pipeline,Closed Lost,,2023-03-13T12:14:52.179Z,2023-03-17T16:12:50.583Z,Tradeshows and Events
+12516103730,default,Mid Market Pipeline,Closed Lost,11100,2023-03-13T14:30:31.883Z,2023-07-24T14:00:42.454Z,Sales Outbound
+12516561214,default,Mid Market Pipeline,Closed Lost,,2023-03-13T16:04:13.659Z,2023-03-22T18:36:22.221Z,Tradeshows and Events
+12532372570,default,Mid Market Pipeline,Closed Lost,,2023-03-14T16:33:59.413Z,2023-04-21T18:58:12.896Z,Tradeshows and Events
+12533461936,default,Mid Market Pipeline,Closed Lost,8680,2023-03-14T18:32:10.251Z,2023-04-25T13:14:54.305Z,Website
+12536747297,default,Mid Market Pipeline,Closed Won,7378,2023-03-14T22:55:41.963Z,2023-06-15T14:26:05.821Z,Website
+12538690661,default,Mid Market Pipeline,Closed Lost,,2023-03-15T03:20:40.342Z,2023-03-20T16:39:30.973Z,PPC / Paid Advertising
+12549725090,default,Mid Market Pipeline,Closed Lost,11600,2023-03-15T19:16:11.215Z,2023-04-13T15:04:54.057Z,Webinar
+12640358737,default,Mid Market Pipeline,Closed Lost,16725,2023-03-21T08:33:20.755Z,2023-05-08T08:33:04.803Z,Sales Outbound
+12648081448,default,Mid Market Pipeline,Closed Lost,,2023-03-21T15:10:47.992Z,2023-03-22T19:03:29.278Z,Website
+12673223961,default,Mid Market Pipeline,Closed Won,8180,2023-03-22T16:59:18.194Z,2023-10-19T08:22:21.691Z,Tradeshows and Events
+12688473137,default,Mid Market Pipeline,Keep Warm,37500,2023-03-23T15:16:57.581Z,2024-03-31T15:38:57.263Z,PPC / Paid Advertising
+12693438905,default,Mid Market Pipeline,Closed Lost,,2023-03-23T21:43:46.953Z,2023-05-04T18:53:41.436Z,Tradeshows and Events
+12699010690,default,Mid Market Pipeline,Closed Lost,,2023-03-24T07:49:42.404Z,2023-06-06T17:36:56.41Z,Sales Outbound
+12706695195,default,Mid Market Pipeline,Closed Lost,14600,2023-03-24T18:45:13.996Z,2023-06-25T10:04:14.283Z,Website
+12709296227,default,Mid Market Pipeline,Keep Warm,22430,2023-03-24T18:30:24.674Z,2024-05-31T17:02:37.19Z,Tradeshows and Events
+12745580594,default,Mid Market Pipeline,Closed Lost,,2023-03-28T07:29:02.163Z,2023-03-28T16:16:14.2Z,PPC / Paid Advertising
+12776983643,default,Mid Market Pipeline,Closed Lost,,2023-03-30T15:27:22.567Z,2023-04-20T15:44:44.178Z,Website
+12787946085,default,Mid Market Pipeline,Closed Lost,14600,2023-03-31T09:12:00.915Z,2023-06-14T15:24:53.817Z,Tradeshows and Events
+12788152094,default,Mid Market Pipeline,Closed Lost,17640,2023-03-31T09:56:10.152Z,2023-05-02T07:04:35.684Z,Website
+12824666744,default,Mid Market Pipeline,Closed Won,11340,2023-04-03T16:08:44.857Z,2023-07-20T16:44:06.591Z,PPC / Paid Advertising
+12873030677,default,Mid Market Pipeline,Closed Lost,10600,2023-04-06T18:59:24.143Z,2023-12-18T19:20:53.924Z,PPC / Paid Advertising
+12930512824,default,Mid Market Pipeline,Closed Lost,10680,2023-04-11T19:34:43.195Z,2023-04-27T12:59:21.41Z,Website
+12950073509,default,Mid Market Pipeline,Closed Won,10391.4,2023-04-12T13:41:20.433Z,2023-09-29T21:06:10.106Z,Tradeshows and Events
+12951812271,default,Mid Market Pipeline,Closed Lost,16850,2023-04-12T15:06:49.174Z,2023-08-16T17:23:35.109Z,PPC / Paid Advertising
+12456550269,default,Mid Market Pipeline,Keep Warm,27450,2023-03-09T10:00:48.76Z,2024-04-30T20:53:26.92Z,Referrals
+12475405571,default,Mid Market Pipeline,Closed Lost,,2023-03-10T12:22:46.89Z,2023-05-02T12:49:11.734Z,Tradeshows and Events
+12854952725,default,Mid Market Pipeline,Closed Lost,,2023-04-05T18:31:30.453Z,2023-04-21T18:27:38.229Z,Tradeshows and Events
+12965716786,default,Mid Market Pipeline,Closed Lost,,2023-04-13T05:34:11.606Z,2023-04-19T22:06:15.176Z,Website
+12971444532,default,Mid Market Pipeline,Closed Lost,9280,2023-04-13T15:53:02.839Z,2023-10-02T18:01:49.659Z,Website
+12993542222,default,Mid Market Pipeline,Closed Lost,,2023-04-14T21:43:22.401Z,2023-05-03T11:11:28.81Z,Website
+12996131096,default,Mid Market Pipeline,Closed Lost,,2023-04-15T01:49:11.781Z,2023-06-13T17:07:28.055Z,Website
+13035148558,default,Mid Market Pipeline,Proposal/Pricing,32000,2023-04-17T23:02:21.921Z,2024-06-28T18:28:00.107Z,Tradeshows and Events
+13035148888,default,Mid Market Pipeline,Closed Lost,10600,2023-04-17T23:07:14.332Z,2023-07-31T15:30:16.874Z,Tradeshows and Events
+13036239929,default,Mid Market Pipeline,Closed Lost,11600,2023-04-18T05:31:25.309Z,2023-08-31T14:11:52.172Z,Tradeshows and Events
+13036240798,default,Mid Market Pipeline,Closed Lost,,2023-04-18T05:52:39.024Z,2023-05-03T14:23:44.073Z,Tradeshows and Events
+13037423932,default,Mid Market Pipeline,Closed Won,7843.5,2023-04-18T05:18:31.498Z,2023-08-14T09:26:56.976Z,Tradeshows and Events
+13037424216,default,Mid Market Pipeline,Closed Lost,14350,2023-04-18T05:25:08.883Z,2023-07-11T18:46:02.8Z,Tradeshows and Events
+13037425005,default,Mid Market Pipeline,Closed Lost,,2023-04-18T05:44:32.528Z,2023-04-24T22:15:54.274Z,Tradeshows and Events
+13037425437,default,Mid Market Pipeline,Closed Lost,,2023-04-18T05:54:21.275Z,2023-06-07T19:45:03.477Z,Tradeshows and Events
+13042712920,default,Mid Market Pipeline,Closed Lost,,2023-04-18T13:41:39.222Z,2023-04-28T16:24:35.518Z,Website
+13055525217,default,Mid Market Pipeline,Closed Lost,,2023-04-19T09:31:56.658Z,2023-06-09T14:01:08.222Z,Sales Outbound
+13065177434,default,Mid Market Pipeline,Closed Lost,15840,2023-04-20T03:39:28.413Z,2023-05-04T16:57:08.738Z,Website
+13068449581,default,Mid Market Pipeline,Procurement/Negotiation,9088.2,2023-04-20T11:07:03.237Z,2024-01-31T14:12:46.685Z,Sales Outbound
+13070143574,default,Mid Market Pipeline,Closed Lost,,2023-04-20T15:05:47.052Z,2023-04-25T14:39:21.446Z,Website
+13075277642,default,Mid Market Pipeline,Closed Lost,,2023-04-20T22:35:47.704Z,2023-12-01T15:44:59.172Z,Tradeshows and Events
+13076347802,default,Mid Market Pipeline,Closed Lost,,2023-04-20T22:33:49.273Z,2023-05-08T20:14:18.476Z,Tradeshows and Events
+13084570528,default,Mid Market Pipeline,Closed Lost,,2023-04-21T14:07:21.654Z,2023-04-26T17:57:23.796Z,Sales Outbound
+13117913385,default,Mid Market Pipeline,Closed Lost,,2023-04-24T13:59:38.162Z,2023-07-18T15:51:43.501Z,Sales Outbound
+13133732689,default,Mid Market Pipeline,Closed Lost,12600,2023-04-25T11:25:48.31Z,2023-06-14T15:28:11.071Z,Website
+13148599887,default,Mid Market Pipeline,Closed Lost,,2023-04-26T14:20:03.953Z,2023-05-11T18:11:24.762Z,Website
+13182149524,default,Mid Market Pipeline,Closed Lost,14350,2023-04-29T17:26:09.554Z,2024-01-29T19:30:13.41Z,Website
+13205460801,default,Mid Market Pipeline,Closed Lost,,2023-05-02T13:49:28.352Z,2023-05-08T16:35:56.681Z,Tradeshows and Events
+13206396272,default,Mid Market Pipeline,Closed Lost,,2023-05-02T16:46:05.634Z,2023-05-30T15:33:56.073Z,Support & CS
+13216976496,default,Mid Market Pipeline,Closed Won,45450,2023-05-03T17:00:49.314Z,2023-08-15T09:55:41.37Z,Website
+13218201350,default,Mid Market Pipeline,Closed Won,3960,2023-04-20T22:35:47.315Z,2024-02-05T12:34:08Z,Tradeshows and Events
+13246389102,default,Mid Market Pipeline,Closed Won,10600,2023-05-05T21:47:53.064Z,2023-05-31T11:16:06.108Z,PPC / Paid Advertising
+13274388303,default,Mid Market Pipeline,Closed Lost,,2023-05-09T07:03:56.266Z,2023-05-12T07:19:33.479Z,Sales Outbound
+13291392871,default,Mid Market Pipeline,Closed Lost,,2023-05-10T16:40:57.056Z,2023-06-05T08:29:07.533Z,Sales Outbound
+13305223328,default,Mid Market Pipeline,Closed Won,10100,2023-05-11T17:59:03.149Z,2023-12-15T16:22:00.304Z,Webinar
+13306486842,default,Mid Market Pipeline,Closed Won,13390,2023-05-11T19:59:41.349Z,2023-09-08T10:37:56.29Z,Website
+13352756581,default,Mid Market Pipeline,Keep Warm,,2023-05-16T10:37:14.889Z,,Website
+13365527304,default,Mid Market Pipeline,Closed Lost,10600,2023-05-17T10:22:30.368Z,2023-06-05T14:20:59.024Z,PPC / Paid Advertising
+13366974084,default,Mid Market Pipeline,Closed Lost,,2023-05-17T14:38:38.003Z,2023-10-09T14:58:40.071Z,Sales Outbound
+13376528941,default,Mid Market Pipeline,Closed Lost,,2023-05-18T11:43:37.425Z,2023-08-02T11:30:15.243Z,Website
+13377878883,default,Mid Market Pipeline,Closed Lost,,2023-05-18T13:53:37.205Z,2023-06-23T13:16:21.328Z,Website
+13380478509,default,Mid Market Pipeline,Closed Lost,,2023-05-18T18:32:49.047Z,2023-05-30T16:59:13.634Z,Website
+13424339363,default,Mid Market Pipeline,Closed Lost,0,2023-05-23T15:09:37.002Z,2023-07-24T13:40:54.667Z,PPC / Paid Advertising
+13431080742,default,Mid Market Pipeline,Closed Lost,,2023-05-24T08:15:20.349Z,2023-07-06T16:36:11.837Z,Social
+13434822801,default,Mid Market Pipeline,Closed Lost,14100,2023-05-24T14:58:49.696Z,2023-09-19T14:23:35.803Z,PPC / Paid Advertising
+13436367624,default,Mid Market Pipeline,Closed Lost,10600,2023-05-24T18:17:13.875Z,2023-09-04T15:34:01.398Z,PPC / Paid Advertising
+13442006540,default,Mid Market Pipeline,Closed Lost,,2023-05-25T08:10:51.543Z,2023-05-30T15:10:52.569Z,Website
+13505638670,default,Mid Market Pipeline,Closed Lost,0,2023-05-11T12:04:01.882Z,2023-05-30T23:47:21.189Z,Sales Outbound
+13522770094,default,Mid Market Pipeline,Closed Lost,,2023-05-31T12:04:28.196Z,2023-07-10T13:19:30.624Z,Sales Outbound
+13523026451,default,Mid Market Pipeline,Qualified,12430,2023-05-31T12:51:58.179Z,2024-03-31T13:24:17.067Z,Referrals
+13540077224,default,Mid Market Pipeline,Closed Lost,,2023-06-01T17:21:24.864Z,2023-06-29T14:42:52.461Z,Website
+13541682076,default,Mid Market Pipeline,Closed Lost,12915,2023-06-01T18:44:00.315Z,2023-10-25T13:22:20.362Z,Website
+13546806694,default,Mid Market Pipeline,Qualified,10600,2023-06-02T01:21:07.058Z,2024-01-31T16:20:25.878Z,Website
+13603197048,default,Mid Market Pipeline,Closed Lost,35000,2023-06-06T17:40:29.893Z,2023-10-31T17:46:29.743Z,Website
+13673020674,default,Mid Market Pipeline,Closed Won,10100,2023-06-12T06:14:49.411Z,2023-08-09T10:52:14.438Z,Website
+13693969803,default,Mid Market Pipeline,Closed Lost,,2023-06-13T19:41:05.311Z,2023-06-21T21:25:19.47Z,Website
+13790846058,default,Mid Market Pipeline,Closed Lost,,2023-06-20T09:13:46.238Z,2023-07-19T08:44:31.367Z,Website
+13796004099,default,Mid Market Pipeline,Closed Lost,,2023-06-20T18:27:54.327Z,2023-06-22T09:37:18.407Z,PPC / Paid Advertising
+13831947574,default,Mid Market Pipeline,Closed Lost,,2023-06-23T14:29:51.82Z,2023-07-24T15:37:04.502Z,Sales Outbound
+13850366788,default,Mid Market Pipeline,Closed Lost,8246,2023-06-24T23:08:04.571Z,2023-07-27T19:13:48.259Z,Sales Outbound
+13863825209,default,Mid Market Pipeline,Closed Lost,14350,2023-06-26T08:53:49.723Z,2023-10-17T21:26:13.976Z,Website
+13864553221,default,Mid Market Pipeline,Discovery,,2023-06-26T11:16:46.333Z,,Sales Outbound
+13884576787,default,Mid Market Pipeline,Closed Lost,3960,2023-06-27T14:26:25.549Z,2024-01-29T19:29:56.68Z,PPC / Paid Advertising
+13896627717,default,Mid Market Pipeline,Closed Lost,,2023-06-28T11:08:11.178Z,2023-08-09T15:33:56.954Z,Sales Outbound
+13900825422,default,Mid Market Pipeline,Closed Lost,,2023-06-28T17:23:13.843Z,2023-07-11T20:10:25.796Z,Website
+13725299819,default,Mid Market Pipeline,Closed Lost,13680,2023-06-15T14:26:14.248Z,2023-12-20T12:32:01.597Z,Website
+13928160612,default,Mid Market Pipeline,Proof of Value,18600,2023-06-30T18:31:06.046Z,2024-03-31T17:19:26.064Z,Tradeshows and Events
+13969890953,default,Mid Market Pipeline,Closed Lost,11600,2023-07-04T17:29:02.923Z,2023-11-20T15:49:04.955Z,PPC / Paid Advertising
+14001059917,default,Mid Market Pipeline,Keep Warm,,2023-07-07T01:41:08.56Z,2023-07-21T01:41:08.089Z,PPC / Paid Advertising
+14034065496,default,Mid Market Pipeline,Qualified,10600,2023-07-09T17:51:35.925Z,2024-03-31T09:40:33.905Z,Website
+14084113723,default,Mid Market Pipeline,Keep Warm,8680,2023-07-12T17:34:54.983Z,2024-02-29T13:04:01.085Z,Sales Outbound
+14193525839,default,Mid Market Pipeline,Proposal/Pricing,21000,2023-07-17T13:49:16.332Z,2024-02-29T12:55:08.109Z,Sales Outbound
+14298418812,default,Mid Market Pipeline,Closed Lost,,2023-07-24T15:00:33.514Z,2023-08-07T19:04:11.793Z,Sales Outbound
+14299849237,default,Mid Market Pipeline,Closed Lost,12600,2023-07-24T15:45:35.994Z,2023-08-24T10:01:03.799Z,PPC / Paid Advertising
+14308850187,default,Mid Market Pipeline,Procurement/Negotiation,3960,2023-07-25T11:46:44.026Z,2024-02-29T19:10:20.14Z,PPC / Paid Advertising
+14310849109,default,Mid Market Pipeline,Closed Lost,,2023-07-25T13:57:23.474Z,2023-09-29T15:34:48.028Z,Tradeshows and Events
+14341641501,default,Mid Market Pipeline,Closed Lost,11100,2023-05-23T15:28:21.476Z,2023-09-05T12:32:50.099Z,Sales Outbound
+14353548925,default,Mid Market Pipeline,Closed Lost,,2023-07-27T09:21:15.061Z,2023-11-09T15:15:24.479Z,Tradeshows and Events
+14358275642,default,Mid Market Pipeline,Proof of Value,9850,2023-07-27T12:29:38.399Z,2025-02-28T12:39:28.739Z,Sales Outbound
+14360766639,default,Mid Market Pipeline,Discovery,,2023-07-27T15:16:48.081Z,,Tradeshows and Events
+14374887606,default,Mid Market Pipeline,Closed Lost,10600,2023-07-28T11:40:55.727Z,2023-10-12T11:02:12.824Z,Sales Outbound
+14434278482,default,Mid Market Pipeline,Proof of Value,9601,2023-08-02T15:42:54.967Z,2024-01-31T23:17:06.363Z,PPC / Paid Advertising
+14435114851,default,Mid Market Pipeline,Discovery,,2023-08-02T16:23:01.008Z,,Sales Outbound
+14468107871,default,Mid Market Pipeline,Closed Lost,,2023-08-04T16:25:23.11Z,2023-08-14T18:32:10.337Z,Website
+14518875813,default,Mid Market Pipeline,Proof of Value,10600,2023-08-07T15:58:16.222Z,2024-03-31T15:08:51.093Z,Website
+14520166255,default,Mid Market Pipeline,Closed Lost,,2023-08-07T19:50:42.021Z,2024-01-02T12:46:15.395Z,PPC / Paid Advertising
+14544071746,default,Mid Market Pipeline,Closed Won,3960,2023-08-09T15:35:37.169Z,2023-11-17T15:06:15.052Z,Website
+14357837854,default,Mid Market Pipeline,Procurement/Negotiation,17543.19,2023-07-27T11:07:42.989Z,2024-02-09T10:49:34.795Z,Website
+14554936165,default,Mid Market Pipeline,Closed Lost,11000,2023-08-10T12:54:21.301Z,2023-11-29T18:16:58.442Z,Tradeshows and Events
+14556794030,default,Mid Market Pipeline,Closed Lost,0,2023-08-10T12:54:30.479Z,2023-08-24T18:16:40.667Z,Tradeshows and Events
+14557628018,default,Mid Market Pipeline,Closed Lost,,2023-08-10T16:26:12.139Z,2023-09-13T17:06:08.734Z,Website
+14572931594,default,Mid Market Pipeline,Closed Lost,,2023-08-11T13:01:28.628Z,2023-09-21T13:40:36.715Z,PPC / Paid Advertising
+14610444321,default,Mid Market Pipeline,Procurement/Negotiation,3960,2023-08-14T10:25:33.933Z,2024-02-01T13:28:31.536Z,Sales Outbound
+14611249189,default,Mid Market Pipeline,Closed Lost,13600,2023-08-14T11:31:02.91Z,2023-09-27T15:54:27.225Z,Website
+14615116979,default,Mid Market Pipeline,Closed Lost,,2023-08-14T16:52:07.038Z,2023-10-30T15:28:03.265Z,PPC / Paid Advertising
+14631297034,default,Mid Market Pipeline,Closed Lost,14325,2023-08-15T13:41:08.02Z,2023-09-13T19:25:21.38Z,Website
+14636756294,default,Mid Market Pipeline,Proposal/Pricing,12400,2023-08-15T19:35:11.219Z,2024-03-31T17:20:54.548Z,PPC / Paid Advertising
+14649184160,default,Mid Market Pipeline,Keep Warm,12100,2023-08-16T11:44:34.443Z,2024-01-31T16:41:18.591Z,Website
+14711715390,default,Mid Market Pipeline,Discovery,,2023-08-17T19:03:21.547Z,2024-05-31T19:13:02.222Z,Website
+14719901485,default,Mid Market Pipeline,Qualified,12186.9,2023-08-18T10:52:32.189Z,2025-01-01T09:49:19.824Z,Webinar
+14759414098,default,Mid Market Pipeline,Closed Lost,21180,2023-07-19T13:46:10.861Z,2023-11-13T18:30:10.056Z,PPC / Paid Advertising
+14762588495,default,Mid Market Pipeline,Keep Warm,0,2023-08-10T12:54:15.511Z,2025-01-31T11:42:56.551Z,Tradeshows and Events
+14796143494,default,Mid Market Pipeline,Closed Lost,,2023-08-23T19:49:14.539Z,2023-10-31T13:17:53.045Z,PPC / Paid Advertising
+14804386124,default,Mid Market Pipeline,Keep Warm,14600,2023-08-24T10:40:55.197Z,2024-07-31T12:03:49.695Z,Website
+14834167906,default,Mid Market Pipeline,Closed Lost,23100,2023-08-25T22:03:28.723Z,2023-09-19T14:13:37.134Z,PPC / Paid Advertising
+14855499704,default,Mid Market Pipeline,Closed Lost,9640,2023-08-28T04:31:28.071Z,2024-01-31T14:24:36.588Z,Website
+14885453612,default,Mid Market Pipeline,Keep Warm,12690,2023-08-29T22:24:59.747Z,2024-01-31T14:06:45.473Z,Website
+14904957870,default,Mid Market Pipeline,Closed Lost,,2023-08-30T23:54:43.521Z,2023-09-27T16:04:50.502Z,PPC / Paid Advertising
+15035805356,default,Mid Market Pipeline,Qualified,12240,2023-09-06T22:20:33.09Z,2024-03-31T16:19:18.541Z,PPC / Paid Advertising
+15105298815,default,Mid Market Pipeline,Keep Warm,27600,2023-09-11T12:19:19.102Z,2023-12-29T15:51:59.122Z,Sales Outbound
+15110620220,default,Mid Market Pipeline,Closed Lost,12240,2023-09-11T18:33:17.971Z,2023-09-26T10:29:25.3Z,Website
+15113348394,default,Mid Market Pipeline,Closed Won,960,2023-09-11T21:10:18.02Z,2023-10-13T15:52:12.513Z,Website
+15140540832,default,Mid Market Pipeline,Closed Lost,10620,2023-09-13T18:44:01.377Z,2024-01-02T13:33:00.722Z,PPC / Paid Advertising
+15218312575,default,Mid Market Pipeline,Closed Lost,,2023-09-18T11:48:30.669Z,2023-09-28T17:37:44.026Z,Website
+15225009207,default,Mid Market Pipeline,Closed Lost,,2023-09-18T20:09:24.581Z,2023-11-09T09:46:53.473Z,PPC / Paid Advertising
+15236862074,default,Mid Market Pipeline,Keep Warm,,2023-09-19T16:21:20.8Z,2024-11-29T20:57:26.495Z,Tradeshows and Events
+15236866117,default,Mid Market Pipeline,Closed Won,3368,2023-09-19T16:18:07.314Z,2023-12-29T12:02:57.079Z,Tradeshows and Events
+15273072946,default,Mid Market Pipeline,Qualified,960,2023-09-21T16:06:40.588Z,2024-07-31T17:15:54.743Z,Sales Outbound
+15274438959,default,Mid Market Pipeline,Keep Warm,72500,2023-09-21T19:29:29.825Z,2024-03-29T15:54:11.5Z,Website
+15296711937,default,Mid Market Pipeline,Closed Lost,,2023-09-23T15:01:24.616Z,2023-10-30T12:33:08.457Z,Website
+15341812662,default,Mid Market Pipeline,Closed Won,10600,2023-09-27T15:19:37.084Z,2023-11-14T15:15:45.653Z,Sales Outbound
+15342683648,default,Mid Market Pipeline,Closed Lost,,2023-09-27T17:17:38.05Z,2023-12-06T13:34:39.089Z,Website
+15348536615,default,Mid Market Pipeline,Closed Lost,,2023-09-28T02:44:27.818Z,2023-10-24T12:54:42.068Z,Website
+15350309725,default,Mid Market Pipeline,Closed Lost,14940,2023-09-28T06:24:16.262Z,2023-10-09T15:34:53.351Z,Website
+15360484984,default,Mid Market Pipeline,Qualified,30600,2023-09-28T15:04:46.421Z,2024-10-31T13:59:10.81Z,Sales Outbound
+15376593790,default,Mid Market Pipeline,Proposal/Pricing,17200,2023-09-29T18:41:51.602Z,2024-01-31T13:32:27.688Z,Website
+15426956715,default,Mid Market Pipeline,Keep Warm,24000,2023-10-03T14:57:50.073Z,2024-04-30T15:36:35.724Z,Sales Outbound
+15442937945,default,Mid Market Pipeline,Proof of Value,13300,2023-10-04T12:37:29.819Z,2024-02-29T11:55:54.376Z,Website
+15446060357,default,Mid Market Pipeline,Closed Lost,9640,2023-10-04T15:59:06.923Z,2023-11-13T14:36:20.356Z,Website
+15468103863,default,Mid Market Pipeline,Closed Lost,,2023-10-05T15:37:02.242Z,2023-12-19T16:42:00.522Z,Website
+15494697486,default,Mid Market Pipeline,Closed Won,3960,2023-10-06T16:49:49.885Z,2023-11-28T11:24:00.281Z,Sales Outbound
+15529002035,default,Mid Market Pipeline,Closed Lost,,2023-10-10T00:00:57.811Z,2023-10-31T20:16:52.427Z,Tradeshows and Events
+15549766932,default,Mid Market Pipeline,Qualified,15290,2023-10-10T21:43:25.424Z,2024-06-30T13:48:46.307Z,PPC / Paid Advertising
+15573145882,default,Mid Market Pipeline,Qualified,11100,2023-10-12T09:56:04.911Z,2024-04-30T08:19:45.11Z,Sales Outbound
+15608438610,default,Mid Market Pipeline,Discovery,,2023-10-13T07:11:15.898Z,,Sales Outbound
+15647021201,default,Mid Market Pipeline,Proposal/Pricing,9680,2023-10-16T07:25:29.118Z,2024-06-30T13:29:02.504Z,Website
+15683931975,default,Mid Market Pipeline,Proof of Value,10600,2023-10-18T14:04:26.841Z,2024-06-28T18:36:45.757Z,Sales Outbound
+15685570145,default,Mid Market Pipeline,Qualified,24600,2023-10-18T14:53:55.132Z,2024-05-31T16:29:28.179Z,PPC / Paid Advertising
+15732429966,default,Mid Market Pipeline,Procurement/Negotiation,11600,2023-10-21T11:40:30.854Z,2024-01-31T15:30:08.536Z,PPC / Paid Advertising
+15752750438,default,Mid Market Pipeline,Closed Lost,12600,2023-10-23T11:58:37.372Z,2023-12-06T11:11:14.069Z,Website
+15799478818,default,Mid Market Pipeline,Closed Lost,10180,2023-10-26T18:46:13.104Z,2024-01-31T14:11:39.173Z,Website
+15812753478,default,Mid Market Pipeline,Qualified,8680,2023-10-27T14:47:22.786Z,2024-07-31T11:21:54.117Z,Sales Outbound
+15814050170,default,Mid Market Pipeline,Qualified,17800,2023-10-27T17:47:11.848Z,2024-07-31T15:58:00.319Z,Tradeshows and Events
+15815431205,default,Mid Market Pipeline,Closed Won,3960,2023-10-27T19:43:28.655Z,2023-11-21T22:49:47.63Z,PPC / Paid Advertising
+15815606902,default,Mid Market Pipeline,Keep Warm,,2023-10-27T20:17:19.222Z,2025-01-01T00:15:44.676Z,Tradeshows and Events
+15815790671,default,Mid Market Pipeline,Keep Warm,10600,2023-10-27T20:17:50.05Z,2024-06-30T16:32:24.206Z,Tradeshows and Events
+15866713464,default,Mid Market Pipeline,Qualified,31000,2023-10-31T19:52:48.11Z,2024-05-31T17:10:21.115Z,Sales Outbound
+15554169514,default,Mid Market Pipeline,Closed Lost,30000,2023-10-11T10:18:46.289Z,2023-11-10T15:44:44.033Z,PPC / Paid Advertising
+15945471038,default,Mid Market Pipeline,Closed Lost,23760,2023-11-06T20:54:03.88Z,2023-12-13T16:17:49.637Z,Website
+15954477641,default,Mid Market Pipeline,Qualified,11600,2023-11-07T14:32:18.199Z,2024-04-30T12:59:59.48Z,Website
+15970117642,default,Mid Market Pipeline,Closed Lost,,2023-11-08T14:07:36.567Z,2023-11-08T18:08:53.822Z,Website
+16004201220,default,Mid Market Pipeline,Proof of Value,12600,2023-11-10T16:33:11.958Z,2024-04-30T16:58:15.927Z,Website
+16014264423,default,Mid Market Pipeline,Closed Lost,11600,2023-11-11T14:37:11.443Z,2023-12-19T15:30:46.786Z,Website
+16071314951,default,Mid Market Pipeline,Proof of Value,12915,2023-11-15T14:36:32.13Z,2024-06-30T10:08:46.273Z,Website
+16103416416,default,Mid Market Pipeline,Closed Lost,18600,2023-11-17T16:57:00.609Z,2023-12-02T19:14:57.89Z,Tradeshows and Events
+16131504491,default,Mid Market Pipeline,Qualified,3960,2023-11-20T08:20:02.058Z,2024-03-31T15:41:07.233Z,Website
+16167703420,default,Mid Market Pipeline,Proof of Value,18600,2023-11-09T14:03:28.031Z,2024-09-30T13:48:20.261Z,Tradeshows and Events
+16203094402,default,Mid Market Pipeline,Procurement/Negotiation,50182.5,2023-11-23T23:36:21.034Z,2024-02-15T13:55:42.895Z,Website
+16211367846,default,Mid Market Pipeline,Discovery,,2023-11-24T11:54:11.444Z,,Sales Outbound
+16268205714,default,Mid Market Pipeline,Discovery,,2023-11-28T13:15:21.63Z,,Sales Outbound
+16287955236,default,Mid Market Pipeline,Proposal/Pricing,6960,2023-11-29T15:24:15.305Z,2024-02-29T11:55:34.636Z,PPC / Paid Advertising
+16358891434,default,Mid Market Pipeline,Closed Lost,10100,2023-12-04T18:56:26.712Z,2024-01-23T14:21:38.333Z,Website
+16368718599,default,Mid Market Pipeline,Qualified,11600,2023-12-05T13:44:04.941Z,2024-09-30T18:52:31.259Z,Sales Outbound
+16490832560,default,Mid Market Pipeline,Discovery,0,2023-06-14T17:09:06.099Z,,Tradeshows and Events
+16507761330,default,Mid Market Pipeline,Discovery,3960,2023-12-14T19:32:20.011Z,,Sales Outbound
+16550245018,default,Mid Market Pipeline,Discovery,,2023-12-17T03:29:16.873Z,,Website
+16581607016,default,Mid Market Pipeline,Discovery,14350,2023-12-18T22:08:55.355Z,2024-03-31T13:03:03.991Z,Website
+16590317920,default,Mid Market Pipeline,Closed Won,9140,2023-12-19T17:05:57.103Z,2024-01-29T19:27:24.466Z,Website
+16622485939,default,Mid Market Pipeline,Proposal/Pricing,10600,2023-12-21T19:39:30.896Z,2024-02-29T14:50:57.502Z,Website
+16574214930,default,Mid Market Pipeline,Qualified,10600,2023-12-18T13:22:37.248Z,2024-06-28T18:22:09.717Z,Website
+16702464001,default,Mid Market Pipeline,Closed Lost,,2023-12-27T18:09:25.659Z,2024-01-21T18:29:57.862Z,Website
+16771602039,default,Mid Market Pipeline,Discovery,,2024-01-02T16:53:05.384Z,,Website
+16821984369,default,Mid Market Pipeline,Qualified,9600,2024-01-05T18:29:02.937Z,2024-04-30T15:33:25.206Z,Sales Outbound
+16851523602,default,Mid Market Pipeline,Discovery,,2024-01-08T13:31:33.143Z,2024-02-29T13:27:26.154Z,Sales Outbound
+16870736311,default,Mid Market Pipeline,Discovery,,2024-01-09T22:10:49.639Z,,PPC / Paid Advertising
+16897301874,default,Mid Market Pipeline,Proposal/Pricing,9680,2024-01-11T21:49:15.877Z,2024-02-29T10:55:18.371Z,Website
+17135953443,default,Mid Market Pipeline,Discovery,,2024-01-24T15:22:43.162Z,,Website
+17158808704,default,Mid Market Pipeline,Discovery,,2024-01-25T18:07:25.792Z,,Sales Outbound
+17160560163,default,Mid Market Pipeline,Discovery,,2024-01-25T22:31:04.013Z,,Tradeshows and Events
+17172740895,default,Mid Market Pipeline,Discovery,,2024-01-26T18:17:25.039Z,,Tradeshows and Events
+17273179825,default,Mid Market Pipeline,Discovery,,2024-01-31T18:29:34.598Z,,Tradeshows and Events
+17172197892,default,Mid Market Pipeline,Discovery,,2024-01-26T18:17:01.105Z,,Tradeshows and Events
+11579501640,default,Mid Market Pipeline,Closed Lost,,2023-01-04T15:54:43.451Z,2023-05-02T16:42:08.632Z,Sales Re-Engagement
+11580321416,default,Mid Market Pipeline,Closed Won,30001.76,2023-01-04T18:08:03.225Z,2023-03-31T16:38:34.971Z,Website
+11583877923,default,Mid Market Pipeline,Closed Lost,,2023-01-04T23:47:04.751Z,2023-01-24T15:15:32.182Z,Website
+11607191132,default,Mid Market Pipeline,Closed Won,10200,2023-01-06T19:08:26.465Z,2023-02-27T15:45:15.145Z,Website
+11634833245,default,Mid Market Pipeline,Proof of Value,14350,2023-01-09T17:11:27.047Z,2024-06-30T15:48:30.988Z,Website
+11636893953,default,Mid Market Pipeline,Closed Lost,19930,2023-01-09T20:26:41.284Z,2023-03-10T16:50:18.478Z,Webinar
+11638529912,default,Mid Market Pipeline,Stalled,7880,2023-01-09T21:48:53.552Z,2024-05-31T17:02:01.325Z,PPC / Paid Advertising
+11646982031,default,Mid Market Pipeline,Closed Lost,13600,2023-01-10T15:08:33.9Z,2023-01-19T09:33:50.167Z,Website
+11815735358,default,Mid Market Pipeline,Closed Won,11186.66,2023-01-23T14:22:37.383Z,2023-03-29T16:15:02.302Z,Website
+11832696965,default,Mid Market Pipeline,Closed Lost,,2023-01-24T16:59:43.055Z,2023-06-12T10:01:16.189Z,Website
+11929768203,default,Mid Market Pipeline,Closed Lost,39000,2023-01-30T13:01:43.299Z,2024-01-29T11:22:27.826Z,Sales Outbound
+11995774279,default,Mid Market Pipeline,Closed Lost,,2023-02-02T22:11:21.328Z,2023-03-01T17:37:07.525Z,Website
+12015537822,default,Mid Market Pipeline,Closed Lost,9680,2023-02-04T16:55:15.655Z,2024-01-09T15:38:40.749Z,PPC / Paid Advertising
+12082282243,default,Mid Market Pipeline,Closed Lost,,2023-02-09T09:03:53.705Z,2023-05-09T15:53:36.065Z,Website
+12105039681,default,Mid Market Pipeline,Keep Warm,2960,2023-02-10T20:00:19.584Z,2023-09-30T12:15:45.598Z,Webinar
+12106969519,default,Mid Market Pipeline,Closed Won,29400,2023-02-10T22:22:57.66Z,2023-07-17T15:13:02.426Z,Website
+12141510546,default,Mid Market Pipeline,Closed Lost,12430,2023-02-13T20:49:35.234Z,2023-03-29T18:42:11.33Z,Website
+12152045152,default,Mid Market Pipeline,Closed Lost,,2023-02-14T12:25:10.19Z,2023-04-24T19:37:15.979Z,Sales Outbound
+12164294555,default,Mid Market Pipeline,Procurement/Negotiation,2960,2023-02-15T14:25:59.362Z,2024-03-31T16:43:31.289Z,Website
+12187102226,default,Mid Market Pipeline,Keep Warm,14600,2023-02-16T15:26:34.528Z,2024-06-30T17:01:05.424Z,Website
+12197247792,default,Mid Market Pipeline,Won - Closed self-serve,960,2023-02-17T04:37:40.861Z,2023-02-15T00:00:00Z,Website
+12207709448,default,Mid Market Pipeline,Closed Lost,,2023-02-17T21:01:49.921Z,2023-03-08T16:34:12.559Z,Website
+12256443653,default,Mid Market Pipeline,Closed Lost,7950.5915,2023-02-21T17:11:05.336Z,2023-04-05T14:45:42.132Z,Website
+12265306779,default,Mid Market Pipeline,Closed Lost,62800,2023-02-22T09:14:08.82Z,2024-01-26T16:04:27.389Z,Website
+12274238721,default,Mid Market Pipeline,Closed Lost,,2023-02-23T03:28:08.725Z,2023-03-08T09:22:56.312Z,Website
+12339754054,default,Mid Market Pipeline,Closed Lost,8680,2023-02-28T11:55:32.972Z,2023-03-30T20:48:34.54Z,Tradeshows and Events
+12343328545,default,Mid Market Pipeline,Closed Won,12430,2023-02-28T18:04:09.385Z,2023-05-19T11:52:30.133Z,Website
+12346809476,default,Mid Market Pipeline,Keep Warm,21600,2023-03-01T00:02:12.869Z,,PPC / Paid Advertising
+12349412174,default,Mid Market Pipeline,Closed Lost,16837.5,2023-03-01T06:25:37.023Z,2023-05-05T16:11:49.406Z,Sales Outbound
+12352053837,default,Mid Market Pipeline,Closed Lost,,2023-03-01T12:49:53.242Z,2023-03-30T10:02:16.503Z,Website
+12356550663,default,Mid Market Pipeline,Closed Lost,,2023-03-01T18:28:26.428Z,2023-03-16T09:57:54.342Z,Website
+12369216626,default,Mid Market Pipeline,Closed Lost,11050,2023-03-02T19:16:34.287Z,2023-06-29T14:35:53.277Z,PPC / Paid Advertising
+12369727612,default,Mid Market Pipeline,Closed Lost,10100,2023-03-02T20:11:45.684Z,2023-05-10T14:06:56.681Z,Website
+12384031892,default,Mid Market Pipeline,Closed Won,20200,2023-03-03T10:19:41.534Z,2023-03-30T15:00:43.541Z,Website
+12398042035,default,Mid Market Pipeline,Closed Lost,,2023-03-04T14:34:07.366Z,2023-12-14T15:31:37.35Z,Website
+12418448741,default,Mid Market Pipeline,Closed Lost,,2023-03-06T14:11:14.762Z,2023-03-14T17:30:59.678Z,Website
+12419941457,default,Mid Market Pipeline,Keep Warm,23100,2023-03-06T16:36:51.782Z,2023-12-29T18:30:05.666Z,Sales Outbound
+12432627359,default,Mid Market Pipeline,Keep Warm,10600,2023-03-07T15:20:17.895Z,2024-03-29T19:36:17.508Z,Sales Outbound
+12458490259,default,Mid Market Pipeline,Closed Lost,,2023-03-09T13:47:05.039Z,2023-03-17T18:42:56.453Z,Tradeshows and Events
+12483573102,default,Mid Market Pipeline,Closed Lost,,2023-03-10T22:52:55.198Z,2023-05-02T14:30:36.922Z,PPC / Paid Advertising
+12520958608,default,Mid Market Pipeline,Closed Lost,,2023-03-13T22:30:25.965Z,2023-04-19T00:37:08.731Z,Website
+12528642913,default,Mid Market Pipeline,Keep Warm,22600,2023-03-14T10:42:03.688Z,2024-04-30T20:57:52.184Z,Sales Outbound
+12530203210,default,Mid Market Pipeline,Closed Lost,,2023-03-14T12:11:39.598Z,2023-08-07T14:10:38.597Z,Tradeshows and Events
+12560550797,default,Mid Market Pipeline,Closed Lost,,2023-03-16T15:07:47.413Z,2023-03-30T18:43:45.723Z,Sales Outbound
+12627002526,default,Mid Market Pipeline,Closed Lost,,2023-03-20T17:04:31.436Z,2023-03-31T13:47:54.332Z,PPC / Paid Advertising
+12630748220,default,Mid Market Pipeline,Closed Lost,11340,2023-03-20T22:57:54.355Z,2023-04-26T11:45:18.385Z,Tradeshows and Events
+12648576695,default,Mid Market Pipeline,Closed Lost,,2023-03-21T15:32:20.656Z,2023-04-04T13:19:14.935Z,Tradeshows and Events
+12672715656,default,Mid Market Pipeline,Closed Lost,,2023-03-22T15:25:50.557Z,2023-04-11T17:01:59.025Z,Sales Outbound
+12678204012,default,Mid Market Pipeline,Closed Lost,9010,2023-03-22T22:15:14.402Z,2023-08-24T10:10:25.365Z,Website
+12692817505,default,Mid Market Pipeline,Closed Lost,10600,2023-03-23T19:59:22.15Z,2023-05-19T20:43:10.54Z,PPC / Paid Advertising
+12747818402,default,Mid Market Pipeline,Keep Warm,18600,2023-03-28T11:02:42.02Z,2023-12-31T15:10:29.524Z,Tradeshows and Events
+12752024340,default,Mid Market Pipeline,Closed Lost,,2023-03-28T17:55:47.098Z,2023-10-19T13:57:31.396Z,Tradeshows and Events
+12354571130,default,Mid Market Pipeline,Closed Lost,18600,2023-03-01T16:42:08.269Z,2023-04-27T18:27:58.905Z,Sales Outbound
+12513866657,default,Mid Market Pipeline,Closed Lost,,2023-03-13T12:49:12.833Z,2023-05-15T14:55:05.471Z,Tradeshows and Events
+12763403544,default,Mid Market Pipeline,Closed Lost,14599,2023-03-29T14:23:41.366Z,2024-01-30T15:27:36.006Z,Website
+12766661463,default,Mid Market Pipeline,Closed Lost,,2023-03-29T17:49:49.854Z,2023-04-12T09:04:33.671Z,Website
+12781460049,default,Mid Market Pipeline,Closed Lost,,2023-03-30T21:41:51.753Z,2023-04-04T18:07:09.187Z,Website
+12824639783,default,Mid Market Pipeline,Closed Lost,,2023-04-03T16:12:24.496Z,2023-06-07T17:58:48.407Z,PPC / Paid Advertising
+12861805347,default,Mid Market Pipeline,Closed Lost,,2023-04-06T02:03:01.229Z,2023-04-28T08:46:05.714Z,Website
+12867711763,default,Mid Market Pipeline,Closed Lost,,2023-04-06T13:58:02.336Z,2023-09-12T15:01:34.577Z,PPC / Paid Advertising
+12867810389,default,Mid Market Pipeline,Closed Lost,,2023-04-06T13:34:24.799Z,2023-05-10T11:54:57.504Z,Webinar
+12871064462,default,Mid Market Pipeline,Keep Warm,,2023-04-06T17:13:18.224Z,,Website
+12886006029,default,Mid Market Pipeline,Proposal/Pricing,105000,2023-04-07T20:26:56.337Z,2024-03-31T12:11:31.887Z,Website
+12924685941,default,Mid Market Pipeline,Keep Warm,,2023-04-11T12:15:49.3Z,2024-03-31T18:31:27.327Z,Website
+12925146790,default,Mid Market Pipeline,Closed Lost,11600,2023-04-11T11:09:32.407Z,2023-07-12T13:27:55.348Z,PPC / Paid Advertising
+12925327888,default,Mid Market Pipeline,Closed Lost,,2023-04-11T11:45:32.224Z,2023-06-15T10:20:33.47Z,Tradeshows and Events
+12464736051,default,Mid Market Pipeline,Closed Lost,31000,2023-03-09T18:51:16.964Z,2023-03-31T17:46:25.516Z,Sales Outbound
+12972964274,default,Mid Market Pipeline,Closed Lost,,2023-04-13T18:06:10.297Z,2023-07-18T15:52:38.913Z,Sales Outbound
+12974770192,default,Mid Market Pipeline,Closed Lost,10600,2023-04-13T21:03:45.443Z,2023-08-02T11:30:45.104Z,Website
+12979466056,default,Mid Market Pipeline,Qualified,33350,2023-04-14T07:22:46.621Z,2024-07-31T20:35:45.436Z,Sales Outbound
+13033542194,default,Mid Market Pipeline,Closed Lost,,2023-04-17T19:55:58.542Z,2023-05-09T16:27:06.847Z,Tradeshows and Events
+13034388540,default,Mid Market Pipeline,Keep Warm,,2023-04-17T18:56:33.857Z,,Tradeshows and Events
+13036240719,default,Mid Market Pipeline,Closed Lost,,2023-04-18T05:50:26.221Z,2023-05-03T14:28:43.021Z,Tradeshows and Events
+13050455930,default,Mid Market Pipeline,Keep Warm,7730,2023-04-18T23:35:30.506Z,2023-09-30T19:30:59.475Z,Sales Outbound
+13058677565,default,Mid Market Pipeline,Closed Lost,,2023-04-19T16:47:06.615Z,2023-05-03T13:01:12.226Z,Sales Outbound
+13058801167,default,Mid Market Pipeline,Keep Warm,34750,2023-04-19T17:20:01.367Z,2024-06-30T21:26:13.195Z,Tradeshows and Events
+13068077603,default,Mid Market Pipeline,Closed Won,9540,2023-04-20T10:58:26.029Z,2023-11-20T12:47:10.449Z,Sales Outbound
+13068727461,default,Mid Market Pipeline,Closed Lost,,2023-04-20T12:23:36.448Z,2023-07-24T13:51:51.325Z,Referrals
+13075228797,default,Mid Market Pipeline,Keep Warm,,2023-04-20T22:51:22.317Z,,Tradeshows and Events
+13075265407,default,Mid Market Pipeline,Closed Lost,10512,2023-04-20T22:35:47.718Z,2023-06-01T15:11:23.148Z,Tradeshows and Events
+13076267776,default,Mid Market Pipeline,Closed Lost,,2023-04-20T22:51:21.732Z,2023-06-19T11:16:00.057Z,Tradeshows and Events
+13076394647,default,Mid Market Pipeline,Closed Lost,,2023-04-20T22:51:26.143Z,2023-05-09T17:42:05.588Z,Tradeshows and Events
+13154480478,default,Mid Market Pipeline,Closed Lost,14350,2023-04-27T01:35:50.963Z,2023-05-19T14:18:08.624Z,PPC / Paid Advertising
+13170144323,default,Mid Market Pipeline,Closed Lost,9480,2023-04-28T13:03:54Z,2023-06-15T19:38:57.949Z,Webinar
+13196316951,default,Mid Market Pipeline,Closed Lost,9700,2023-05-01T15:36:30.566Z,2023-06-01T16:05:51.164Z,PPC / Paid Advertising
+13230232748,default,Mid Market Pipeline,Closed Lost,10600,2023-05-04T12:01:37.914Z,2023-06-09T15:53:21.253Z,Referrals
+13244334255,default,Mid Market Pipeline,Closed Won,9044,2023-05-05T16:57:05.399Z,2023-07-21T17:27:28.858Z,Website
+13262450834,default,Mid Market Pipeline,Closed Lost,,2023-05-08T01:43:25.695Z,2023-06-15T19:40:27.062Z,PPC / Paid Advertising
+13264399368,default,Mid Market Pipeline,Closed Lost,,2023-05-08T08:25:32.145Z,2023-05-11T13:05:08.465Z,Sales Outbound
+13267402362,default,Mid Market Pipeline,Proof of Value,24437.5,2023-03-28T07:19:59.323Z,2024-08-31T11:09:58.132Z,Tradeshows and Events
+13275351931,default,Mid Market Pipeline,Closed Lost,,2023-05-09T10:58:57.568Z,2023-05-29T08:54:23.772Z,Sales Outbound
+13277994799,default,Mid Market Pipeline,Closed Won,3960,2023-05-09T14:34:19.391Z,2024-01-22T18:09:20.01Z,PPC / Paid Advertising
+13279856280,default,Mid Market Pipeline,Closed Won,9680,2023-05-09T16:51:09.197Z,2023-09-29T10:59:27.912Z,Website
+13307595872,default,Mid Market Pipeline,Closed Lost,15280,2023-05-11T19:47:04.128Z,2023-11-16T17:42:38.644Z,Sales Outbound
+13312956568,default,Mid Market Pipeline,Closed Lost,,2023-05-12T13:48:18.557Z,2023-06-12T15:56:00.447Z,Website
+13366935194,default,Mid Market Pipeline,Keep Warm,21600,2023-05-17T14:16:31.802Z,2024-03-29T16:29:43.99Z,PPC / Paid Advertising
+13392191623,default,Mid Market Pipeline,Closed Lost,10100,2023-05-19T21:37:56.844Z,2023-08-24T15:02:33.538Z,Website
+13304746268,default,Mid Market Pipeline,Closed Lost,9680,2023-05-11T16:35:14.077Z,2023-06-09T12:49:21.287Z,PPC / Paid Advertising
+13430832181,default,Mid Market Pipeline,Closed Lost,10600,2023-05-24T07:33:03.615Z,2024-01-16T10:25:55.59Z,Website
+13430896749,default,Mid Market Pipeline,Closed Lost,18600,2023-05-24T07:24:48.787Z,2023-07-11T09:29:29.937Z,Website
+13442064002,default,Mid Market Pipeline,Closed Lost,10600,2023-05-25T08:51:03.203Z,2023-05-31T16:48:15.978Z,Website
+13445364255,default,Mid Market Pipeline,Closed Lost,9180,2023-05-25T14:55:57.637Z,2023-06-20T13:21:08.839Z,PPC / Paid Advertising
+13447703431,default,Mid Market Pipeline,Closed Lost,,2023-05-25T18:56:41.614Z,2023-06-01T13:36:25.189Z,PPC / Paid Advertising
+13467410001,default,Mid Market Pipeline,Closed Lost,,2023-05-27T03:04:12.59Z,2023-06-15T16:20:17.726Z,Website
+13512589111,default,Mid Market Pipeline,Closed Lost,10600,2023-05-30T22:37:47.035Z,2023-07-05T17:38:56.74Z,Website
+13525845022,default,Mid Market Pipeline,Closed Won,9312,2023-05-31T19:29:43.691Z,2023-09-01T11:23:21.066Z,Website
+13526766375,default,Mid Market Pipeline,Proposal/Pricing,9880,2023-05-31T20:13:12.914Z,2024-01-31T15:04:32.617Z,PPC / Paid Advertising
+13532511517,default,Mid Market Pipeline,Closed Lost,,2023-06-01T05:45:56.895Z,2023-09-18T10:12:24.483Z,Website
+13549708943,default,Mid Market Pipeline,Closed Won,11680,2023-06-02T09:03:16.916Z,2023-12-04T14:43:47.316Z,Sales Outbound
+13647504046,default,Mid Market Pipeline,Proposal/Pricing,72675,2023-06-09T16:12:28.749Z,2024-03-31T13:56:46.393Z,Website
+13657189957,default,Mid Market Pipeline,Procurement/Negotiation,16480,2023-06-10T14:07:10.677Z,2024-03-31T09:54:13.424Z,Website
+13679717967,default,Mid Market Pipeline,Closed Lost,0,2023-05-01T15:51:37.887Z,2023-06-12T17:04:23.265Z,Tradeshows and Events
+13695528617,default,Mid Market Pipeline,Closed Won,8680,2023-06-13T20:54:22.417Z,2023-08-01T14:02:31.09Z,PPC / Paid Advertising
+13703648953,default,Mid Market Pipeline,Keep Warm,,2023-06-14T08:58:37.114Z,,Tradeshows and Events
+13710198631,default,Mid Market Pipeline,Keep Warm,64000,2023-06-14T17:08:50.937Z,2023-09-29T18:54:51.433Z,Tradeshows and Events
+13710238648,default,Mid Market Pipeline,Keep Warm,9654,2023-06-14T17:09:06.816Z,2024-03-31T17:25:15.874Z,Tradeshows and Events
+13721666394,default,Mid Market Pipeline,Keep Warm,16250,2023-06-15T12:06:11.454Z,2024-06-28T18:32:02.733Z,Sales Outbound
+13750460684,default,Mid Market Pipeline,Closed Lost,0,2023-06-07T21:47:04.845Z,2023-06-26T18:14:23.076Z,Tradeshows and Events
+13788283825,default,Mid Market Pipeline,Closed Won,10600,2023-06-20T00:57:11.77Z,2023-07-30T15:05:34.079Z,Website
+13794697087,default,Mid Market Pipeline,Closed Won,8480,2023-06-20T16:18:38.882Z,2023-08-07T09:24:53.942Z,Webinar
+13781699438,default,Mid Market Pipeline,Keep Warm,18600,2023-06-19T17:18:39.199Z,2024-06-28T18:32:25.312Z,Sales Outbound
+13805329680,default,Mid Market Pipeline,Closed Lost,,2023-06-21T15:17:32.418Z,2023-07-14T21:57:39.042Z,Sales Outbound
+13816617894,default,Mid Market Pipeline,Keep Warm,,2023-06-22T10:17:16.24Z,,Website
+13829092619,default,Mid Market Pipeline,Closed Lost,,2023-06-23T10:02:10.127Z,2023-07-19T19:08:58.381Z,Sales Outbound
+13835419725,default,Mid Market Pipeline,Discovery,,2023-06-23T19:24:52.106Z,,Tradeshows and Events
+13928026001,default,Mid Market Pipeline,Keep Warm,,2023-06-30T18:30:56.34Z,2024-02-05T17:54:19.04Z,Tradeshows and Events
+13966856830,default,Mid Market Pipeline,Closed Won,19190,2023-07-04T11:52:04.948Z,2023-10-26T13:24:57.815Z,Website
+13976921675,default,Mid Market Pipeline,Closed Lost,,2023-07-05T09:25:13.333Z,2024-01-26T10:14:29.804Z,Referrals
+14102163716,default,Mid Market Pipeline,Closed Lost,10600,2023-07-13T10:58:10.093Z,2023-11-21T13:23:43.448Z,Sales Outbound
+14108608324,default,Mid Market Pipeline,Closed Lost,12600,2023-07-13T14:16:20.254Z,2024-01-25T15:11:28.261Z,Tradeshows and Events
+14108726452,default,Mid Market Pipeline,Keep Warm,,2023-07-13T14:16:21.54Z,,Tradeshows and Events
+14247393184,default,Mid Market Pipeline,Keep Warm,43500,2023-07-20T11:38:56.779Z,2024-03-31T11:34:44.275Z,Website
+14363758483,default,Mid Market Pipeline,Closed Lost,,2023-07-27T19:18:39.331Z,2023-09-14T18:57:03.579Z,Tradeshows and Events
+14376286234,default,Mid Market Pipeline,Closed Lost,,2023-07-28T14:43:54.417Z,2023-09-05T12:46:34.053Z,Website
+14433851476,default,Mid Market Pipeline,Procurement/Negotiation,18658,2023-08-02T14:48:12.11Z,2024-02-29T21:00:27.091Z,Website
+14446430532,default,Mid Market Pipeline,Closed Lost,10600,2023-08-03T07:33:24.343Z,2023-09-29T14:37:27.708Z,Website
+14464152069,default,Mid Market Pipeline,Closed Lost,,2023-08-04T10:22:24.669Z,2023-09-19T15:52:48.405Z,Website
+14484340603,default,Mid Market Pipeline,Closed Lost,,2023-08-05T14:56:45.584Z,2023-08-16T09:47:53.904Z,PPC / Paid Advertising
+14515520571,default,Mid Market Pipeline,Discovery,,2023-08-07T10:55:03.53Z,,Sales Outbound
+14515595640,default,Mid Market Pipeline,Keep Warm,,2023-08-07T11:08:52.833Z,2023-09-30T11:06:43.403Z,Sales Outbound
+14528107655,default,Mid Market Pipeline,Closed Lost,12100,2023-08-08T13:19:11.908Z,2024-01-19T15:04:46.313Z,Sales Outbound
+14546754329,default,Mid Market Pipeline,Discovery,,2023-08-09T20:04:11.004Z,,Sales Outbound
+14555001144,default,Mid Market Pipeline,Closed Lost,,2023-08-10T12:54:56.894Z,2023-09-07T14:28:53.145Z,Tradeshows and Events
+14633721394,default,Mid Market Pipeline,Proposal/Pricing,10600,2023-08-15T15:58:05.155Z,2024-05-31T19:11:39.341Z,Sales Outbound
+14647502890,default,Mid Market Pipeline,Closed Lost,15280,2023-08-16T08:39:19.556Z,2024-01-09T21:24:26.026Z,Sales Outbound
+14708102298,default,Mid Market Pipeline,Proof of Value,52100,2023-08-17T14:14:23.096Z,2024-03-31T16:06:24.998Z,Sales Outbound
+14708394919,default,Mid Market Pipeline,Closed Lost,9000,2023-08-17T15:25:18.75Z,2023-11-27T15:42:41.87Z,Sales Outbound
+14723967764,default,Mid Market Pipeline,Closed Lost,,2023-08-18T17:10:01.852Z,2023-09-01T13:13:34.91Z,Webinar
+14779250751,default,Mid Market Pipeline,Closed Lost,14100,2023-08-22T10:09:35.749Z,2023-11-16T17:37:26.527Z,Sales Outbound
+14794921231,default,Mid Market Pipeline,Keep Warm,,2023-08-23T16:48:46.096Z,,Website
+14799715393,default,Mid Market Pipeline,Closed Lost,,2023-08-24T03:34:38.366Z,2023-09-27T09:54:47.819Z,Website
+14827909947,default,Mid Market Pipeline,Closed Won,95527.69,2023-08-25T14:55:13.312Z,2023-11-01T18:54:47.483Z,Website
+14831169030,default,Mid Market Pipeline,Keep Warm,,2023-08-25T18:09:00.281Z,,Website
+14861988359,default,Mid Market Pipeline,Closed Lost,14100,2023-08-28T14:27:57.943Z,2023-11-29T11:47:38.719Z,Website
+14863546515,default,Mid Market Pipeline,Closed Lost,24800,2023-08-28T16:33:51.411Z,2023-11-20T13:05:16.989Z,Sales Outbound
+14867702838,default,Mid Market Pipeline,Closed Lost,,2023-08-28T23:53:09.836Z,2024-01-03T11:40:03.763Z,PPC / Paid Advertising
+14873634372,default,Mid Market Pipeline,Closed Lost,,2023-08-29T10:11:20.383Z,2023-09-27T14:27:38.056Z,Sales Outbound
+14894987667,default,Mid Market Pipeline,Closed Lost,,2023-08-30T15:46:22.082Z,2023-09-22T15:20:53.14Z,Sales Outbound
+14900284973,default,Mid Market Pipeline,Keep Warm,26190,2023-08-30T21:26:14.028Z,2024-01-31T21:34:36.15Z,Website
+14939679303,default,Mid Market Pipeline,Closed Lost,,2023-09-01T14:20:42.573Z,2023-09-25T16:31:19.878Z,Website
+14998575515,default,Mid Market Pipeline,Closed Lost,,2023-09-05T18:30:41.616Z,2023-10-12T09:53:08.201Z,Website
+15015439675,default,Mid Market Pipeline,Closed Lost,,2023-09-06T10:53:42.464Z,2023-10-13T09:50:53.403Z,Sales Outbound
+15020616026,default,Mid Market Pipeline,Closed Lost,10060,2023-09-06T13:21:27.527Z,2023-11-08T14:29:50.536Z,Website
+15052483706,default,Mid Market Pipeline,Closed Lost,12600,2023-09-07T13:46:44.933Z,2023-10-31T17:45:50.48Z,Website
+15107537224,default,Mid Market Pipeline,Closed Won,2960,2023-09-11T15:23:34.762Z,2023-11-20T19:27:23.042Z,Website
+15119938895,default,Mid Market Pipeline,Qualified,16100,2023-09-12T09:38:44.521Z,2024-03-31T16:18:25.676Z,Website
+15135137898,default,Mid Market Pipeline,Proof of Value,9220,2023-09-13T13:14:26.214Z,2024-01-31T15:36:30.119Z,Website
+15138661525,default,Mid Market Pipeline,Closed Won,960,2023-08-24T00:06:20.096Z,2023-10-26T17:21:20.83Z,Website
+15146589733,default,Mid Market Pipeline,Closed Lost,13140,2023-09-14T06:56:28.659Z,2023-11-02T12:48:26.742Z,Website
+15148950277,default,Mid Market Pipeline,Closed Lost,13513.5,2023-09-14T09:48:36.76Z,2023-12-07T15:52:49.386Z,Sales Outbound
+15156494427,default,Mid Market Pipeline,Discovery,,2023-09-14T18:48:04.919Z,2024-03-31T16:53:23.209Z,Website
+15177093166,default,Mid Market Pipeline,Closed Lost,9630,2023-09-15T23:37:04.352Z,2023-10-30T12:33:31.839Z,PPC / Paid Advertising
+15226148768,default,Mid Market Pipeline,Closed Lost,,2023-09-18T22:49:58.35Z,2023-12-11T18:41:42.133Z,Tradeshows and Events
+15231439153,default,Mid Market Pipeline,Proof of Value,9640,2023-09-19T08:43:51.138Z,2024-06-30T11:01:23.408Z,Sales Outbound
+15260508026,default,Mid Market Pipeline,Closed Lost,12600,2023-09-20T23:13:18.151Z,2023-10-07T09:26:26.188Z,Website
+15273522241,default,Mid Market Pipeline,Closed Lost,,2023-09-21T17:23:23.144Z,2024-01-24T19:37:09.467Z,Tradeshows and Events
+15288079475,default,Mid Market Pipeline,Proof of Value,11300,2023-09-22T20:24:57.39Z,2024-03-29T21:46:59.986Z,PPC / Paid Advertising
+15329079892,default,Mid Market Pipeline,Discovery,,2023-09-26T16:19:05.907Z,,Tradeshows and Events
+15339672438,default,Mid Market Pipeline,Qualified,10600,2023-09-27T12:52:38.887Z,2024-03-31T10:16:21.365Z,Sales Outbound
+15345520387,default,Mid Market Pipeline,Qualified,11600,2023-09-27T20:25:05.633Z,2024-03-31T21:22:48.932Z,Marketing Emails
+15361956906,default,Mid Market Pipeline,Closed Won,11100,2023-09-28T18:03:52.952Z,2023-12-01T18:06:14.626Z,Website
+15367374360,default,Mid Market Pipeline,Closed Lost,,2023-09-28T22:39:00.543Z,2023-11-21T14:54:12.592Z,Website
+15374479644,default,Mid Market Pipeline,Qualified,10600,2023-09-29T14:22:52.928Z,2024-03-31T12:48:42.457Z,Sales Outbound
+15374686116,default,Mid Market Pipeline,Qualified,54650,2023-09-29T15:18:24.681Z,2024-06-28T17:53:30.266Z,Sales Outbound
+15413295398,default,Mid Market Pipeline,Closed Lost,,2023-10-02T15:09:51.167Z,2024-01-18T17:18:50.956Z,Sales Outbound
+15423735215,default,Mid Market Pipeline,Qualified,24600,2023-10-03T12:55:27.366Z,2024-03-31T10:30:23.259Z,Sales Outbound
+15495346341,default,Mid Market Pipeline,Keep Warm,18600,2023-10-06T18:52:11.249Z,2024-03-29T15:53:42.657Z,Website
+15517350297,default,Mid Market Pipeline,Closed Lost,9600,2023-10-09T09:15:09.036Z,2023-12-11T12:22:38.014Z,Sales Outbound
+15521479263,default,Mid Market Pipeline,Closed Lost,11600,2023-10-09T15:42:35.086Z,2023-11-24T15:33:19.652Z,Website
+15553404511,default,Mid Market Pipeline,Closed Lost,,2023-10-11T07:08:41.341Z,2023-12-01T11:53:20.969Z,Website
+15581665540,default,Mid Market Pipeline,Discovery,,2023-10-12T12:45:19.76Z,2024-06-30T12:42:20.586Z,Website
+15597711646,default,Mid Market Pipeline,Proposal/Pricing,10600,2023-10-12T21:43:36.022Z,2024-03-29T19:44:21.204Z,Sales Outbound
+15629429006,default,Mid Market Pipeline,Closed Won,4960,2023-10-15T09:54:33.556Z,2023-11-20T10:18:22.78Z,Website
+15684142852,default,Mid Market Pipeline,Closed Lost,,2023-10-18T15:08:59.839Z,2023-10-31T16:13:48.727Z,Website
+15686680360,default,Mid Market Pipeline,Qualified,9180,2023-10-18T15:50:47.691Z,2024-03-31T19:32:40.484Z,Website
+15758727453,default,Mid Market Pipeline,Lead Engaged,,2023-10-23T20:12:22.208Z,2023-11-30T21:11:34.761Z,Tradeshows and Events
+15770556202,default,Mid Market Pipeline,Closed Lost,49350,2023-10-24T17:33:02.253Z,2023-11-14T19:26:51.275Z,PPC / Paid Advertising
+15771858452,default,Mid Market Pipeline,Qualified,11640,2023-10-24T18:50:33.229Z,2024-07-31T12:31:31.806Z,Tradeshows and Events
+15797614984,default,Mid Market Pipeline,Proof of Value,14100,2023-10-26T15:50:20.827Z,2024-06-30T18:48:33.884Z,Sales Outbound
+15843327262,default,Mid Market Pipeline,Closed Lost,20400,2023-10-30T10:48:22.59Z,2024-01-22T17:25:55.265Z,Website
+15848578645,default,Mid Market Pipeline,Closed Lost,0,2023-10-27T20:17:14.408Z,2024-01-08T12:31:18.984Z,Tradeshows and Events
+15874640909,default,Mid Market Pipeline,Qualified,11640,2023-11-01T11:28:41.273Z,2024-05-31T09:02:37.186Z,Sales Outbound
+15877019554,default,Mid Market Pipeline,Closed Lost,3960,2023-11-01T15:50:33.283Z,2023-12-13T16:16:52.711Z,Website
+15894924641,default,Mid Market Pipeline,Keep Warm,,2023-11-02T16:21:42.191Z,,Sales Outbound
+15894925827,default,Mid Market Pipeline,Proof of Value,11600,2023-11-02T16:27:34.054Z,2024-03-29T19:19:35.989Z,Sales Outbound
+15938409640,default,Mid Market Pipeline,Closed Lost,,2023-11-06T12:28:05.452Z,2023-12-11T14:28:21.326Z,Website
+15949361924,default,Mid Market Pipeline,Keep Warm,10600,2023-11-07T04:44:20.492Z,2023-12-29T19:03:59.909Z,Website
+15955788370,default,Mid Market Pipeline,Proposal/Pricing,11600,2023-11-07T16:15:47.786Z,2024-03-31T12:05:46.105Z,Website
+15991651657,default,Mid Market Pipeline,Qualified,16850,2023-11-09T17:32:55.351Z,2024-06-30T12:34:57.36Z,Website
+16037489726,default,Mid Market Pipeline,Discovery,,2023-11-13T10:52:15.332Z,,Sales Outbound
+16039421222,default,Mid Market Pipeline,Closed Lost,,2023-11-13T15:03:14.409Z,2024-01-18T14:25:17.86Z,Sales Outbound
+16055852390,default,Mid Market Pipeline,Proof of Value,12600,2023-08-03T10:56:02.588Z,2024-04-30T15:39:40.432Z,Sales Outbound
+16057129030,default,Mid Market Pipeline,Closed Lost,11100,2023-11-14T16:38:11.565Z,2023-12-06T18:42:26.244Z,PPC / Paid Advertising
+16082443163,default,Mid Market Pipeline,Qualified,20400,2023-11-16T08:58:03.776Z,2024-06-30T12:14:22.379Z,Website
+16102511872,default,Mid Market Pipeline,Closed Won,9640,2023-11-17T15:58:04.291Z,2024-01-30T10:47:17.849Z,Website
+16106853936,default,Mid Market Pipeline,Proposal/Pricing,9640,2023-11-17T20:54:03.262Z,2024-03-31T14:16:33.832Z,PPC / Paid Advertising
+16133066164,default,Mid Market Pipeline,Closed Lost,11400,2023-11-20T10:57:41.013Z,2024-01-03T11:14:20.583Z,Sales Outbound
+16141524794,default,Mid Market Pipeline,Qualified,3960,2023-11-14T18:55:43.324Z,2024-03-31T10:35:51.365Z,Tradeshows and Events
+16142227720,default,Mid Market Pipeline,Discovery,,2023-11-20T20:45:06.619Z,,Sales Outbound
+16159917577,default,Mid Market Pipeline,Closed Lost,996,2023-11-21T16:18:57.673Z,2024-01-31T14:12:37.937Z,Sales Outbound
+16167705409,default,Mid Market Pipeline,Proposal/Pricing,11100,2023-11-17T16:56:04.056Z,2024-03-29T16:49:05.057Z,Tradeshows and Events
+16173102938,default,Mid Market Pipeline,Discovery,3960,2023-11-22T11:00:04.852Z,2024-02-29T19:01:40.635Z,Website
+16173930096,default,Mid Market Pipeline,Closed Lost,,2023-11-22T12:43:50.749Z,2023-12-15T17:19:49.98Z,Sales Outbound
+16181253140,default,Mid Market Pipeline,Proof of Value,10600,2023-11-22T18:07:40.719Z,2024-02-07T14:45:18.363Z,Website
+16181785455,default,Mid Market Pipeline,Proposal/Pricing,10600,2023-11-22T17:46:45.821Z,2024-06-30T08:40:04.454Z,Sales Outbound
+16196939673,default,Mid Market Pipeline,Keep Warm,,2023-11-23T15:57:46.648Z,2024-12-27T16:14:07.077Z,Website
+16210659618,default,Mid Market Pipeline,Discovery,,2023-11-24T10:09:17.042Z,,Sales Outbound
+16212423082,default,Mid Market Pipeline,Discovery,,2023-11-24T14:13:46.576Z,,Website
+16245083438,default,Mid Market Pipeline,Discovery,,2023-11-27T11:07:05.934Z,,Sales Outbound
+16266820874,default,Mid Market Pipeline,Discovery,,2023-11-28T14:15:48.02Z,,Sales Outbound
+16354783791,default,Mid Market Pipeline,Discovery,,2023-12-04T13:58:05.373Z,,Sales Outbound
+16357181613,default,Mid Market Pipeline,Discovery,,2023-12-04T16:49:32.584Z,,Sales Outbound
+16358888845,default,Mid Market Pipeline,Closed Lost,10100,2023-12-04T18:58:18.943Z,2024-01-24T09:54:03.92Z,PPC / Paid Advertising
+16367925013,default,Mid Market Pipeline,Discovery,,2023-12-05T11:30:23.846Z,,Sales Outbound
+16383313664,default,Mid Market Pipeline,Keep Warm,10640,2023-12-06T12:14:22.036Z,2024-06-30T12:42:27.145Z,Referrals
+16383571641,default,Mid Market Pipeline,Qualified,10600,2023-12-06T13:15:48.983Z,2024-03-31T13:46:31.686Z,Website
+16383835790,default,Mid Market Pipeline,Closed Lost,,2023-12-06T13:56:59.419Z,2023-12-07T14:24:35.817Z,Sales Outbound
+16394469956,default,Mid Market Pipeline,Discovery,,2023-12-07T09:42:44.385Z,,Sales Outbound
+16398820229,default,Mid Market Pipeline,Closed Lost,10600,2023-12-07T14:24:08.207Z,2024-01-26T15:54:47.201Z,PPC / Paid Advertising
+16451385229,default,Mid Market Pipeline,Closed Lost,,2023-12-11T16:44:48.345Z,2024-01-11T13:02:59.219Z,PPC / Paid Advertising
+16467323407,default,Mid Market Pipeline,Proposal/Pricing,13600,2023-12-12T12:30:35.058Z,2024-01-31T13:17:53.965Z,Website
+16487856437,default,Mid Market Pipeline,Discovery,,2023-12-13T14:17:20.464Z,2024-01-31T18:55:34.498Z,Sales Outbound
+16590042905,default,Mid Market Pipeline,Qualified,10600,2023-12-19T15:13:58.241Z,2024-05-31T08:28:50.209Z,Website
+16704589354,default,Mid Market Pipeline,Proof of Value,19640,2023-12-27T20:27:15.84Z,2024-02-29T12:15:47.7Z,Website
+16772635949,default,Mid Market Pipeline,Qualified,48000,2024-01-02T18:31:38.35Z,2024-07-31T10:29:59.747Z,Tradeshows and Events
+16774123102,default,Mid Market Pipeline,Closed Lost,,2024-01-02T21:34:39.375Z,2024-01-08T19:28:38.979Z,Website
+16794505767,default,Mid Market Pipeline,Qualified,39000,2024-01-03T23:23:22.336Z,2024-03-31T15:47:47.656Z,Website
+16799379628,default,Mid Market Pipeline,Closed Lost,,2024-01-04T05:47:43.588Z,2024-01-16T15:22:48.87Z,Website
+16823856940,default,Mid Market Pipeline,Closed Lost,,2024-01-05T21:15:54.867Z,2024-01-16T15:11:33.963Z,PPC / Paid Advertising
+16906754455,default,Mid Market Pipeline,Discovery,,2024-01-12T12:56:27.583Z,,Website
+16907852674,default,Mid Market Pipeline,Discovery,,2024-01-12T14:51:54.333Z,,Sales Outbound
+16908443196,default,Mid Market Pipeline,Discovery,,2024-01-12T15:30:31.107Z,,Sales Outbound
+16913102870,default,Mid Market Pipeline,Qualified,10600,2024-01-12T20:41:43.665Z,2024-03-29T21:39:59.647Z,Website
+17042222108,default,Mid Market Pipeline,Discovery,,2024-01-19T11:37:28.818Z,,Website
+17104207368,default,Mid Market Pipeline,Discovery,,2024-01-22T18:42:43.58Z,,Referrals
+17107652127,default,Mid Market Pipeline,Qualified,10100,2024-01-22T23:48:18.521Z,2024-05-31T12:10:57.891Z,PPC / Paid Advertising
+17139812617,default,Mid Market Pipeline,Qualified,12430,2024-01-24T19:19:20.484Z,2024-03-15T18:30:00.045Z,Website
+17172170753,default,Mid Market Pipeline,Discovery,,2024-01-26T18:17:05.069Z,,Tradeshows and Events
+17172721022,default,Mid Market Pipeline,Discovery,,2024-01-26T18:16:59.292Z,,Tradeshows and Events
+17194262624,default,Mid Market Pipeline,Discovery,,2024-01-28T13:07:24.22Z,,Website
+17213015557,default,Mid Market Pipeline,Qualified,10600,2024-01-29T09:51:34.448Z,2024-08-15T18:31:42.435Z,Sales Outbound
+17221608098,default,Mid Market Pipeline,Discovery,,2024-01-29T22:22:27.038Z,,PPC / Paid Advertising
+17244790025,default,Mid Market Pipeline,Discovery,,2024-01-30T19:18:38.35Z,,PPC / Paid Advertising
+17245504678,default,Mid Market Pipeline,Discovery,,2024-01-30T20:18:12.164Z,2024-03-31T17:14:33.757Z,Website

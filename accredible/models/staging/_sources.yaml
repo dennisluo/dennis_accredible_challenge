@@ -1,0 +1,80 @@
+models:
+  - name: stg_deals
+    description: "Staging table for deal source data"
+    columns:
+      - name: deal_id
+        data_type: integer
+        description: '{{ doc("deal_id") }}'
+        tests:
+          - not_null
+          - unique
+
+      - name: pipeline_id
+        data_type: varchar
+        description: '{{ doc("pipeline_id") }}'
+
+      - name: pipeline_name
+        data_type: varchar
+        description: '{{ doc("pipeline_name") }}'
+
+      - name: stage_name
+        data_type: varchar
+        description: '{{ doc("stage_name") }}'
+
+      - name: amount_in_home_currency
+        data_type: float
+        description: '{{ doc("amount_in_home_currency") }}'
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+
+      - name: created_at
+        data_type: timestamp
+        description: '{{ doc("created_at") }}'
+
+      - name: closed_at
+        data_type: timestamp
+        description: '{{ doc("closed_at") }}'
+
+      - name: deal_source_type
+        data_type: varchar
+        description: '{{ doc("deal_source_type") }}'
+        tests:
+          - not_null
+
+  - name: stg_deal_pipeline_stages
+    description: "Staging table for deal source stage data"
+    columns:
+      - name: deal_id
+        data_type: integer
+        description: '{{ doc("deal_id") }}'
+        tests:
+          - not_null
+          - unique
+
+      - name: stage_created_at
+        data_type: timestamp
+        description: '{{ doc("stage_created_at") }}'
+
+      - name: pipeline_id
+        data_type: varchar
+        description: '{{ doc("pipeline_id") }}'
+
+      - name: pipeline_name
+        data_type: varchar
+        description: '{{ doc("pipeline_name") }}'
+
+      - name: deal_stage_id
+        data_type: varchar
+        description: '{{ doc("deal_stage_id") }}'
+
+      - name: stage_name
+        data_type: varchar
+        description: '{{ doc("stage_name") }}'
+
+      - name: stage_display_order
+        data_type: integer
+        description: '{{ doc("stage_display_order") }}'
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0

@@ -1,0 +1,112 @@
+models:
+  - name: dim_deals
+    description: "Dimension table containing details of each deal. Each row represents deal and affiliated details."
+    columns:
+      - name: deal_key
+        data_type: varchar
+        description: 'The surrogate key for the dim deals table'
+        tests:
+          - not_null
+          - unique
+
+      - name: deal_id
+        data_type: integer
+        description: '{{ doc("deal_id") }}'
+        tests:
+          - not_null
+          - unique
+
+      - name: pipeline_id
+        data_type: varchar
+        description: '{{ doc("pipeline_id") }}'
+
+      - name: pipeline_name
+        data_type: varchar
+        description: '{{ doc("pipeline_name") }}'
+
+      - name: current_stage_name
+        data_type: varchar
+        description: '{{ doc("stage_name") }}'
+
+      - name: amount_usd
+        data_type: float
+        description: '{{ doc("amount_in_home_currency") }}'
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+
+      - name: deal_created_at
+        data_type: timestamp
+        description: '{{ doc("created_at") }}'
+
+      - name: deal_closed_at
+        data_type: timestamp
+        description: '{{ doc("closed_at") }}'
+
+      - name: deal_source_type
+        data_type: varchar
+        description: '{{ doc("deal_source_type") }}'
+        tests:
+          - not_null
+
+  - name: fct_deal_stages
+    description: "Fact table showing the business process of a deal moving between stages in the pipeline.
+    Each row represents a deal and details of when it moved into a certain stage in the pipeline."
+    columns:
+      - name: deal_stage_key
+        data_type: varchar
+        description: 'The surrogate key for the fact deal stages table'
+        tests:
+          - not_null
+          - unique
+
+      - name: deal_key
+        data_type: varchar
+        description: 'The foreign key for the dim deals table'
+        tests:
+          - not_null
+          - unique
+
+      - name: deal_id
+        data_type: integer
+        description: '{{ doc("deal_id") }}'
+        tests:
+          - not_null
+          - unique
+
+      - name: stage_created_at
+        data_type: timestamp
+        description: '{{ doc("stage_created_at") }}'
+
+      - name: pipeline_id
+        data_type: varchar
+        description: '{{ doc("pipeline_id") }}'
+
+      - name: pipeline_name
+        data_type: varchar
+        description: '{{ doc("pipeline_name") }}'
+
+      - name: deal_stage_id
+        data_type: varchar
+        description: '{{ doc("deal_stage_id") }}'
+
+      - name: pipeline_stage_name
+        data_type: varchar
+        description: '{{ doc("stage_name") }}'
+
+      - name: stage_display_order
+        data_type: integer
+        description: '{{ doc("stage_display_order") }}'
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+
+        {{ dbt_utils.generate_surrogate_key(['deal_id', 'stage_created_at']) }} AS deal_stage_key,
+        {{ dbt_utils.generate_surrogate_key(['deal_id']) }} AS deal_key,
+        deal_id,
+        stage_created_at,
+        pipeline_id,
+        pipeline_name,
+        deal_stage_id,
+        stage_name AS pipeline_stage_name,
+        stage_display_order

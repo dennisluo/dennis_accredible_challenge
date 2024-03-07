@@ -1,0 +1,5 @@
+accredible/.*
+accredible/logs
+accredible/target
+accredible/dbt_packages
+.venv

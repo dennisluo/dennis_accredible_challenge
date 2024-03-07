@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+dbt-core = "==1.6.2"
+dbt-duckdb = "==1.6.2"
+duckcli = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3"
+
+[scripts]
